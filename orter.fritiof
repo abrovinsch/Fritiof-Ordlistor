@@ -1,0 +1,464 @@
+-insert svenska-orter
+
+§plats-ort
+#land#
+#internationell_stad#
+#ort#
+
+§internationell_stad
+//Europa
+Reykjavijk
+London
+Edinburgh
+Dublin
+Manchester
+Lissabon
+Madrid
+Barcelona
+Malaga
+Valencia
+Paris
+Marseille
+Lyon
+Amsterdam
+Haag
+Bryssel
+Antwerpen
+Luxemburg
+Bern
+Geneve
+Zürich
+Milano
+Turin
+Venedig
+Verona
+Rom
+Neapel
+Palermo
+Valetta
+Monaco
+Hamburg
+München
+Berlin
+Wien
+Ljubljana
+Oslo
+Stockholm
+Köpenhamn
+Helsingfors
+Malmö
+Tromsö
+Warzawa
+Krakow
+Riga
+Tallin
+Dubrovnik
+Zagreb
+Sarajevo
+Aten
+// Mellanöstern
+Istanbul
+Ankara
+Damaskus
+Bagdad
+Beirut
+Tel-Aviv
+Jerusalem
+Teheran
+Dubai
+Qatar
+Mekka
+// Östasien
+Delhi
+Goa
+Mumbai
+Calcutta
+Bangkok
+Ho Chi Minh City
+Shanghai
+Hong-Kong
+Macau
+Beijing
+Guangzhou
+Tokyo
+Kyoto
+// Amerika
+Ottawa
+Montreal
+Toronto
+Washington
+New York
+Miami
+Las Vegas
+Seattle
+San Fransisco
+LA
+Mexico City
+Caracas
+Havanna
+Santo Domingo
+Rio de Janeiro
+Buenos Aires
+// Afrika
+Casablanca
+Marakech
+Alger
+Tunis
+Tripoli
+Kairo
+Alexandria
+Dakar
+Addis Abbaba
+Kinshasa
+Abijan
+Dar es Salaam
+Nairobi
+Harare
+Kapstaden
+Johannesburg
+// Oceanien
+Sydney
+Melbourne
+Wellington
+Auckland
+Brisbane
+
+§land
+Afghanistan
+Albanien
+Algeriet
+Amerikanska jungfruöarna
+Amerikanska Samoa
+Andorra
+Angola
+Anguilla
+Antigua och Barbuda
+Argentina
+Armenien
+Aruba
+Australien
+Azerbajdzjan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belgien
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnien Hercegovina
+Botswana
+Brasilien
+Brittiska jungfruöarna
+Brunei
+Bulgarien
+Burkina Faso
+Burma
+Burundi
+Caymanöarna
+Centralafrikanska republiken
+Chile
+Colombia
+Comorerna
+Cooköarna
+Costa Rica
+Cypern
+Danmark
+Dominica
+Dominikanska republiken
+Ecuador
+Egypten
+Ekvatorialguinea
+El Salvador
+Elfenbenskusten
+England
+Eritrea
+Estland
+Etiopien
+Falklandsöarna
+Fiji
+Filippinerna
+Finland
+Frankrike
+Franska Guyana
+Franska Polynesien
+Färöarna
+Gabon
+Gambia
+Georgien
+Ghana
+Gibraltar
+Grekland
+Grenada
+Grönland
+Guadeloupe
+Guam
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hongkong
+Indien
+Indonesien
+Irak
+Iran
+Irland
+Island
+Isle of Man
+Israel
+Italien
+Jamaica
+Japan
+Jemen
+Jordanien
+Kambodja
+Kamerun
+Kanada
+Kenya
+Kina
+Kiribati
+Kongo-Kinshasa
+Kroatien
+Kuba
+Kuwait
+Laos
+Lesotho
+Lettland
+Libanon
+Liberia
+Libyen
+Liechtenstein
+Litauen
+Luxemburg
+Madagaskar
+Makedonien
+Malawi
+Malaysia
+Maldiverna
+Mali
+Malta
+Marocko
+Marshallöarna
+Martinique
+Mauritius
+Mayotte
+Mexiko
+Mikronesiens federerade stater
+Moçambique
+Moldavien
+Monaco
+Mongoliet
+Namibia
+Nauru
+Nederländerna
+Nederländska Antillerna
+Nepal
+Nicaragua
+Niger
+Nigeria
+Nordkorea
+Norge
+Nya Zeeland
+Oman
+Pakistan
+Panama
+Papua Nya Guinea
+Paraguay
+Peru
+Pitcairnöarna
+Polen
+Portugal
+Puerto Rico
+Reunion
+Rumänien
+Rwanda
+Ryssland
+Saint Christopher och Nevis
+Saint Helena
+Saint Lucia
+Saint Vincent och Grenadinerna
+Saint-Pierre-et-Miquelon
+Salomonöarna
+Samoa
+São Tomé och Príncipe
+Saudiarabien
+Schweiz
+Senegal
+Serbien
+Sierra Leone
+Singapore
+Skottland
+Slovakien
+Slovenien
+Spanien
+Sri Lanka
+Storbritannien
+Sudan
+Surinam
+Sverige
+Swaziland
+Sydafrika
+Sydkorea
+Syrien
+Taiwan
+Tanzania
+Tchad
+Thailand
+Tjeckien
+Togo
+Tonga
+Trinidad och Tobago
+Tunisien
+Turkiet
+Turkmenistan
+Turks- och Caicosöarna
+Tuvalu
+Tyskland
+Uganda
+Ukraina
+Ungern
+Uruguay
+USA
+Uzbekistan
+Vanuatu
+Venezuela
+Vietnam
+Vitryssland
+Wales
+Wallis och Futuna
+Zambia
+Zimbabwe
+Österrike
+Östtimor
+
+§i-ort
+i #ort-i#
+i #ort-i#
+i #ort-i#
+på #ort-på#
+
+§ort
+#ort-i#
+#ort-i#
+#ort-i#
+#ort-på#
+
+§ort-på
+#ort-på-legacy#
+#svenska-orter-på#
+
+§ort-på-legacy
+Öckerö
+Gotland
+Öland
+Åland
+Visingsö
+vischan
+landet
+fjället
+slätta
+Orust
+Tjörn
+Värmdö
+Koster
+Käringön
+Hanö
+Ösel
+söder
+östermalm
+Själland
+Fyn
+Jylland
+höglandet
+
+§ort-i
+#ort-i-legacy#
+#svenska-orter-i#
+
+§ort-i-legacy
+Norrköping
+Sveg
+Sundsvall
+Värmland
+Lappland
+Tommelilla
+Vansbro
+Söderköping
+Mölndal
+Skåne
+Småland
+Lund
+Gällivare
+Linköping
+Helsingborg
+Oslo
+Norge
+Pajala
+Piteå
+Danderyd
+Östermalm
+Örgryte
+Toarp
+Orust
+Åmål
+Borås
+Stockholm
+Skellefteå
+Västerbotten
+Knohult
+Växjö
+Piteå
+Luleå
+Umeå
+Gävle
+Frufällan
+Trosa
+Hjo
+Uddevalla
+Höör
+Vansbro
+Vaggeryd
+Dals-Ed
+Askersund
+Gnesta
+Jokkmokk
+Östersund
+Floby
+Tibro
+Säffle
+Nora
+Sunne
+Torsby
+Orsa
+Mora
+Bollnäs
+Glöte
+Brunflo
+Skorped
+Åsele
+Boden
+Kalix
+Ystad
+Tommelilla
+Eslöv
+Bjuv
+Gunghult
+Kalmar
+Bråbo
+Nässjö
+Fristad
+Ucklum
+Kåtebol
+Flen
+Ösmo
+Gladö
+Kista
+Rotebro
+Sätra
+Spånga
+Alby
+Vidbo
