@@ -1,0 +1,691 @@
+-dictionary ~/Egna Dokument/Programmering/Fritiof-Ordlistor
+-insert saker
+-insert orter
+-insert stofil-mat
+-insert stofila-namn
+-insert djur
+-insert musik
+
+
+§origin
+#du-har-sjukdom.capitalize##orsakad-av#. #botas-genom.capitalize#.#bieffekter#
+
+§du-har-sjukdom
+#du-har# #sjukdom#
+#du-har# #sjukdom-prefix##sjukdom-påhittad#
+#du-har# #sjukdom-prefix##slumpad-sjukdom.capitalize#
+
+§du-har
+Du har #förmodligen-synonym#
+Du verkar vara drabbad av
+Allt tyder på
+Tyvärr verkar det vara
+Mycket pekar på
+Detta indikerar
+Definitivt
+Du har med all säkerhet
+Käre värld, det är #förmodligen-synonym#
+
+§botas-genom
+Det botas genom att #botemedel#
+Du ska #botemedel#
+Du behöver #förmodligen-synonym# se till att #botemedel#
+Det botas om du ser till att #botemedel#
+Du #bör-synonym# #helst-synonym# #botemedel#
+Det ger sig efter en #siffra# till #siffra# veckor om du är noga med att #botemedel#
+Bara att #botemedel# hjälper
+Att #botemedel# kan hjälpa.
+Testa att #botemedel#
+Det finns ingenting att göra
+
+§botemedel
+#undvika-synonym# #mat-tillagad# mat
+#undvika-synonym# #naturföremål-plural#
+#undvika-synonym# feta såser
+träna #kroppsdelen#
+amputera din #kroppsdel-en#
+resa till en kurort #i-ort#
+äta #stofil-maträtt# #tidsangivelse#
+inte glömma din #nyttig-sak# #tidsangivelse#
+operera din #kroppsdel-en#
+#botemedel# och #botemedel#
+bara dricka #dryck#
+söka upp en Dr. #efternamn.capitalize# #i-ort#
+iakta en diet av enbart #diet-del# och #diet-del#
+ta #siffra# doser #medicin# #om-dagen-i-veckan#
+#undvika-synonym# all kontakt med #material#föremål
+genomföra #siffra# timmars #arbete-synonym-ett# #om-dagen-i-veckan#
+sova med #material#omslag
+smörja in #kroppsdelen# i #klibb#
+bada i #badgrej#
+#undvika-synonym# kontakt med #människor-plural#
+inte tala förrän det blir #tid#
+lyssna på #musik#
+klä dig i #material#
+applicera #sak#salva
+uppsöka #avdelning# kan hjälpa
+lägga #en-sak# under huvudkudden
+
+§orsakad-av
+^
+^
+^
+^
+^
+^
+ vilket #förmodligen-synonym# beror på #farlig-sak#
+ vilket orsakas av #farlig-sak#
+ som bildas vid brist på #koncept#
+ vilket oftast bara drabbar #människor-plural#
+
+§bieffekter
+ BIEFFEKT: #bieffekt.capitalize#.
+ Behandligen kan leda till att #bieffekt#.
+ Bli inte rädd när #bieffekt#.
+ En sannolik bieffekt är att #bieffekt#.
+ En möjlig effekt av detta är dessvärre att #bieffekt#.
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+
+§bieffekt
+du kan komma att lukta #lukter#
+du kommer inte kunna använda #ett-verktyg# på #siffra# månader
+all mat kommer smaka #mat-ingrediens# ett tag
+#kroppsdel-plural-bestämd-form# svullnar och blir ömma
+
+§könskompisar
+#människor-plural#
+#djur-plural#
+folk från #ort#
+en #person-typ#
+
+§farlig-sak
+kontakt med äldre #bilmodell.capitalize#-bilar
+#drog#-missbruk
+osund #mat-ingrediens#konsumtion
+överdriven #nyttig-sak#
+utebliven #nyttig-sak#
+osunda mängder #nyttig-sak#
+kontakt med smutsiga #naturföremål-plural#
+försummad #nyttig-sak#
+för mycket #kost-del#
+könsumgänge med #könskompisar#
+
+§kost-del
+kolhydrater
+fett
+vitamin
+kött
+proteiner
+kosttillsatser
+antibiotika
+grönsaker
+potatis
+
+§förmodligen-synonym
+förmodligen
+troligtvis
+med stor sannolikhet
+antagligen
+nog
+
+§tidsangivelse
+#siffra# gånger #om-dagen-i-veckan#
+varje kväll
+före läggdags
+innan tandborstning
+varje #veckodag#
+
+§om-dagen-i-veckan
+om dagen
+i veckan
+i månaden
+
+§bör-synonym
+bör
+ska
+borde
+skall
+
+§nyttig-sak
+fiberätning
+träning
+tvättning
+motion
+promenerande
+bålträning
+tankeverksamhet
+#kroppsdel#träning
+
+§helst-synonym
+helst
+gärna
+
+§sjukdom-påhittad
+nervbrock
+insjöidiotsjukan
+korsordstumme
+halsrebus
+galärgalen
+punschpsykos
+mockfjärdsreumatism
+handläggarhälta
+nattslem
+överdropp
+smedskvissla
+matrosbråck
+drängfräknar
+statarbrynja
+klumpsot
+vägskälsförvirring
+ängsfeber
+åkeryrsel
+bollnäsblåsor
+slåtterfeber
+varsam tröghet
+stängselallergi
+päronfobi
+krukmakarkäke
+prosthaka
+sakristiaskräck
+salongssnuva
+afrikapung
+gäddklump
+fikelsot
+dikessjukan
+Ladugårdskinder
+Prästpanna
+Oskarsson-Rasks sjuka
+spansk katarr
+von Ankelsteins klåda
+åsnemidja
+poddutseende
+Sabelaxel
+konstapelpuckel
+fanjunkarfot
+stockbrott
+godahoppsdroppen
+pampasklådan
+degerforsdöden
+krondikarlår
+krämnacke
+kvarthalt
+svartfrossa
+öronstarr
+rallarbjugg
+minnesotapanna
+rosyrsel
+skeppsgalla
+löpmage
+kallskav
+leverbrand
+surnacke
+knäröta
+skepparkind
+finska febern
+
+§slumpad-sjukdom
+#sak#fobi
+#dryck##kroppsdel-en#
+#kroppsdel-en#sot
+#kroppsdel-en##sjuka#
+#person-typ#feber
+#mat-yrke#s #sjuka#
+#efternamn.capitalize#s #sjuka#
+#galna# #djur-en#sjukan
+#mat-ingrediens#frossa
+#material##sjuka#
+okänd form av #sjukdom-prefix##sjuka#
+
+§sjukdom-prefix
+abnorm ^
+tropisk ^
+aggressiv ^
+dold ^
+kronisk ^
+engelsk ^
+nordlig ^
+våldsam ^
+svår ^
+lätt ^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+
+§sjuka
+sjuka
+värk
+feber
+katarr
+sjukdom
+virus
+infektion
+syndrom
+sot
+snuva
+röta
+
+§galna
+galna
+gamla
+danska
+tjocka
+hemska
+
+§undvika-synonym
+undvika
+akta dig för
+hålla dig undan
+hålla dig bort från
+
+§diet-del
+#mat-ingrediens#
+#kost-del#
+#drog#
+
+§medicin
+antibiotika
+penciliin
+alecylsalecylsyra
+adrenalin
+koda
+sot
+bikarbonat
+
+§moderna-läkemedel
+alendronsyra
+alfadil bph
+alfuzosin teva
+alganex
+allopurinol
+almogran
+altargo
+amilorid mylan
+amlodipin
+amorolfin
+amoxicillin
+amoxicillin och klavulansyra i kombination
+anervan novum
+antabus
+arthrotec och arthrotec forte
+asasantin retard
+atarax
+atenolol
+atorvastatin
+atovakvon och proguanil i kombination
+atrovent nasal
+azatioprin
+azitromycin
+basiron ac och basiron ac wash
+bendroflumetiazid
+betametason för huden och öronen
+betapred
+bezalip och bezalip retard
+bisoprolol
+bondil
+bricanyl
+budesonid för näsan
+budesonid och formoterol i kombination
+budesonid som du andas in
+burinex
+calcichew-d3
+calma
+campral
+canesten
+canoderm
+cardizem, cardizem retard och cardizem unotard
+caverject och caverject dual
+cefadroxil
+celecoxib
+cerazette
+cetirizin
+champix
+cialis
+ciklosporin
+cilest och cilest 28
+ciprofloxacin
+cisordinol
+citalopram
+citodon
+cocillana-etyfin
+cortimyk
+creon
+crestor
+dalacin
+deltison
+depo-medrol och depo-medrol cum lidocain
+depo-provera
+descutan
+desloratadin
+desogestrel som preventivmedel
+desolett och desolett 28
+detrusitol och detrusitol sr
+diane
+diazepam
+differin
+digoxin biophausia
+diklofenak
+ditropan
+divisun
+dolcontin
+donepezil
+doxazosin actavis
+doxycyklin
+duroferon
+ebastin
+eliquis
+ellaone
+emadine
+emovat
+enalapril
+enalapril och hydroklortiazid i kombination
+enbrel
+entocort
+erytromycin
+escitalopram
+etalpha
+euthyrox
+exlutena
+felodipin
+fenoximetylpenicillin
+fexofenadin
+ficortril ögonsalva
+finacea
+finasterid sandoz
+flagyl
+florinef
+flukloxacillin
+flukonazol
+fluoxetin
+flutikason som du andas in
+flutivate
+folsyra
+formoterol
+fragmin
+fucidin-hydrocortison
+fucithalmic
+furosemid
+gabapentin
+galantamin
+gaviscon
+gemcitabin
+gemfibrozil
+glibenklamid
+glimepirid
+glucobay
+glyceryltrinitrat
+haldol
+hydroklortiazid
+hydroklortiazid och amilorid i kombination
+hydrokortison för huden
+hydrokortison tabletter
+hytrinex
+ibuprofen
+imigran och imigran novum
+innohep
+inolaxol
+insulin - medellångverkande humant
+insulin - medellångverkande med snabbt insättande verkan, humant
+insulin - snabbverkande humant
+insulinanaloger - långverkande
+insulinanaloger - medellångverkande med snabbt insättande verkan
+insulinanaloger - snabbverkande
+ipratropium och salbutamol
+ipratropium som du andas in
+irbesartan
+irbesartan och hydroklortiazid i kombination
+isosorbidmononitrat
+ispaghulaskal
+kalcidon
+kalcipos
+kalcipos-d, kalcipos-d mite och kalcipos-d forte
+kalcipotriol och betametason i kombination
+kaleorid
+kandesartan
+kandesartan och hydroklortiazid i kombination
+kaptopril
+karbamazepin
+karvedilol
+ketogan novum
+ketokonazol
+ketoprofen
+klaritromycin
+klexane
+klomipramin
+klopidogrel
+kloramfenikol
+klorhexidin och klorhexidinsprit
+klorokinfosfat recip
+klozapin
+lafunomyl
+laktulos
+lariam
+lastin
+lederspan
+levaxin
+levitra
+levofloxacin tabletter
+lidokain och prilokain i kombination
+liothyronin
+lipanthyl
+lisinopril
+lithionit
+livostin
+locacorten-vioform
+locoid, locoid crelo och locoid lipid
+logimax och logimax forte
+loperamid
+loratadin
+losartan
+losartan och hydroklortiazid i kombination
+lymecyklin
+madopark, madopark depot och madopark quick
+makrogol
+maxalt och maxalt rapitab
+mercilon 28
+mesalazin
+metformin
+metoprolol
+metotrexat
+metronidazol för huden
+metylfenidat
+mianserin mylan
+microlax
+mikonazol och hydrokortison i kombination
+mindiab
+miniderm
+mini-pe
+mirena
+mirtazapin
+mometason för huden
+mometason för näsan
+montelukast
+morfin meda
+moxifloxacin tabletter
+naltrexon vitaflo
+naproxen
+naramig
+natriumbikarbonat recip
+natriumkromoglikat
+natriumpikosulfat
+neovletta och neovletta 28
+nexplanon
+nicorette inhalator
+nicorette microtab
+niferex
+nikotinplåster
+nikotintuggummi
+nipaxon
+nitrofurantoin
+nobligan och nobligan retard
+norlevo
+norspan
+novaluzid
+nuvaring
+nystatin
+olanzapin
+omeprazol
+onbrez breezhaler
+orthonett novum
+oxazepam
+oxikodon
+oximetazolin
+panocod
+pantoprazol
+paracetamol
+paroxetin
+persantin depot
+pevaryl och pevaryl depot
+pioglitazon
+pivmecillinam
+plaquenil
+podofyllotoxin
+postafen
+postinor
+pradaxa
+prednisolon tabletter
+primolut-nor
+primperan
+probecid
+propavan
+propranolol
+propylenglykol
+proscar
+raloxifen stada
+ramipril
+ranitidin
+relenza
+relifex
+relpax
+remicade
+resonium
+resulax
+ridaura
+rinexin
+rinomar
+risedronsyra
+risperidon
+roxitromycin
+salbutamol
+salmeterol
+salmeterol och flutikason i kombination
+seebri breezhaler
+sendoxan
+sertralin
+simvastatin
+sinalfa
+sinemet och sinemet depot
+solu-cortef
+spiriva och spiriva respimat
+spironolakton
+sulfasalazin
+sumatriptan mylan
+syntocinon
+tamiflu
+tamoxifen
+tavegyl
+telmisartan
+temgesic
+tenutex
+terbinafin
+terracortril med polymyxin b
+tetracyklin meda
+thacapzol
+theralen
+tibolon
+tiotil
+tiparol
+torem
+tradolan och tradolan retard
+tramadol hexal och tramadol retard hexal
+tramadol stada
+tranexamsyra
+trimetoprim
+trimetoprim och sulfametoxazol i kombination
+trinovum och trinovum 28
+trionetta och trionetta 28
+trombyl
+ultibro breezhaler
+valproinsyra
+valsartan
+valsartan och hydroklortiazid i kombination
+vanquin
+venlafaxin
+verapamil
+vesicare
+viagra
+vitamin b12, cyanokobalamin
+voxra
+waran
+xarelto
+xatral od
+xenical
+xylometazolin
+xyloproct
+yasmin och yasmin 28
+yasminelle och yasminelle 28
+yaz
+zaditen
+zolpidem
+zomig, zomig rapimelt och zomig nasal
+zopiklon
+zyban
+
+§tid
+jul
+påsk
+pingst
+midsommar
+nyår
+vårdagjämning
+höstdagjämning
+vår
+sommar
+höst
+vinter
+morgon
+middag
+kväll
+solnedgång
+frukost
+lunch
+
+§badgrej
+#klibb#
+#dryck#
+#vätska#
+
+§avdelning
+förlossningsavdelningen
+frenologen
+ortopeden
+psykakuten
