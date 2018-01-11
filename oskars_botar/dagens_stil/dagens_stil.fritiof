@@ -1,3 +1,6 @@
+-dictionary ~/Egna Dokument/Programmering/Fritiof-Ordlistor
+-insert varumärken
+
 §origin
 Din stil idag: #alternatives##utseende#.
 Din stil idag: #alternatives##utseende#.
@@ -1898,31 +1901,7 @@ kth
 handels
 
 §bilmodell
-volvo
-bmw
-opel
-citroën
-renault
-saab
-audi
-mustang
-skoda
-folka
-lada
-mini
-fiat
-lambhorghini
-ferrari
-cadillac
-chrysler
-ford
-toyota
-nissan
-mazda
-range rover
-tesla
-kia
-hyundai
+#bilmärke#
 
 §överlevt
 en break-up med #person#
