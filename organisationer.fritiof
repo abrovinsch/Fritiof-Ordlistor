@@ -8,6 +8,10 @@
 #idrottsföreningar#
 #klädföretag#
 
+§företag
+#internationella_företag#
+#svenska_företag#
+
 §myndigheter
 Skatteverket
 Systembolaget
@@ -21,6 +25,11 @@ Säpo
 regeringen
 Polisen
 SFI
+Bolagsverket
+Finansinspektionen
+Arbetsmiljöverket
+Naturvårdsverket
+Trafikverket
 
 §klädföretag
 myrorna
@@ -57,6 +66,7 @@ Handelsbanken
 SEB
 Swedbank
 Nordea
+Investor
 
 // Industri
 Sandviken
@@ -66,6 +76,12 @@ Scania
 Saab
 Volvo
 Atlas Copco
+Electrolux
+SCA
+
+// Bygg
+Skanska
+NCC
 
 // Affärer
 Clas Ohlsson
@@ -75,28 +91,42 @@ Lindex
 Hemtex
 ICA
 Coop
+Åhlens
+NK
 
 // Telekom & IT
 Spotify
 Telia
 Tele2
 Telenor
-
+3
 
 §internationella_företag
+// Tech
 Apple
 Samsung
 Microsoft
 Google
 Facebook
 Amazon
+Netflix
+Intel
+Uber
+// Media
 Disney
+Dreamworks
+Warner Bros
+CNN
+// Mat
 Coca-Cola
 McDonalds
-Intel
+Starbucks
 Burger King
+// Övrigt
 Nike
 Adidas
+#bilmärke#
+#bilmärke#
 #bilmärke#
 #bilmärke#
 #bilmärke#
@@ -130,6 +160,23 @@ iogt-nto
 LO
 Timbro
 Svenskt Näringsliv
+SAC
+RFSL
+Katolska kyrkan
+Sverok
+Arméns musikkårs veteraner
+Karl-Gerhard Sällskapet
+Svenska Akademien
+Handarbetets vänner
+Kartografiska sällskapet
+Ointroducerad adels förening
+Nyfilologiska sällskapet
+Mensa
+Kryssarklubben
+Naturskyddsföreningen
+Röda Korset
+SPF
+PRO
 
 §idrottsföreningar
 // Hockey
@@ -140,6 +187,14 @@ Leksand
 Timrå
 Frölunda
 Modo
+Luleå
+Färjestad
+HV71
+Linköping
+Brynäs
+Växjö
+Djurgården
+Asplöven
 
 // Fotboll
 Malmö FF

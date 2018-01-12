@@ -1,0 +1,262 @@
+// Boten ska vara mörkblå utan att
+// hänfalla till öppet SD-hyllning
+// eftersom vi inte vill skrämma bort
+// för många
+
+-dictionary ~/Egna Dokument/Programmering/Fritiof-Ordlistor
+-insert oskars_botar/gnellbot5000/gnäll-synonymer
+-insert föremål
+-insert orter
+-insert kändisar
+-insert stofil-mat
+-insert kultur
+-insert organisationer
+
+§origin
+#försvarstweet.capitalize##försvar_suffix#
+
+§försvarstweet
+varför vill #vänsterorg# #vänsterförslag#?
+#cyberattack#. #hackargrupp.capitalize#?
+#nej_till_upprustning# #är_det_samma_som# #gå_fiendes_ärenden#
+#vi_vill_ha# #upprustning#
+#oroande_indikator#. #dags_för# #upprustning#?
+
+§p
+#värt_att_försvara.capitalize# #värtattförsvara
+
+§pacifister
+Svenska Freds
+FI
+Miljöpartiet
+
+§vänsterorg
+LO
+Vänsterpartiet
+V
+Miljöpartiet
+MP
+Socialdemokraterna
+S
+(s)(v)t
+svt
+statsmedia
+AFA
+
+§högerorg
+Timbro
+Moderaterna
+Svensk Näringsliv
+KD
+
+§högeridol
+Hanif Bali
+Ivar Arpi
+Lars Beckman
+Alexander Bard
+Ebba Busch Thor
+Patrik Oksanen
+Cornubot
+ÖB
+Alice Teodorescu
+Tino Sanandaji
+Hanif Bali
+Per Gudmundsson
+
+§fiende
+Putin
+IS
+Nordkorea
+Kim Jong Un
+Fidel Castro
+AFA
+Kina
+Iran
+terroister
+Al-Assad
+Hamas
+Kreml
+Putin
+
+§svensk_dygd
+demokrati
+demokrati
+press
+välfärd
+barnomsorg
+natur
+fjällvärld
+skärgård
+svenska kultur
+skola
+melodifestival
+försvarsförmåga
+monarki
+svenska kultur
+ekonomi
+media
+
+§vänsterförslag
+att #fiende# ska #kontrollera_syn# vår #svensk_dygd#
+
+§kontrollera_syn
+kontrollera
+ta över
+styra
+förstöra
+fördärva
+attackera
+
+§cyberattack
+#högeridol# verkar inte svara på #social_media#
+verkar vara blockad av #högerorg#
+#hemsida.capitalize# ligger nere
+#hemsida.capitalize# ligger nere
+Strömavbrott i #svenska-orter-i#
+
+§hackargrupp
+hackare från #fiende#
+cyberattack från #fiende#
+angrepp av #fiende#
+
+§hemsida
+Flashback
+Pornhub
+moderaterna.se
+svd.se
+timbro.se
+familjeliv.se
+recept.se
+tv4play
+isabellalowengrip.se
+biltema.se
+kungahuset.se
+
+§nej_till_upprustning
+Nej till #upprustning#
+Motstånd mot #upprustning#
+Kampanjande MOT #upprustning#
+Att inte vilja ha #upprustning#
+
+§upprustning
+nya JAS-plan
+NATO-medlemskap
+nya ubåtar
+ett utökat missilförsvarsystem
+svenska kärnvapen
+mer övervakning
+en ny bas i #svenska-orter-i#
+fler preppers
+höjda försvarsanlag
+eventuell intervention i #land#
+militariserade scouter
+mer idrott
+fler poliser
+tungt beväpnade poliser
+allmän värnplikt
+en moderniserad #svensk_fästning#
+
+§gå_fiendes_ärenden
+gå #fiende#s ärenden
+
+§försvar_suffix
+^
+^
+^
+^
+^
+ #värtattförsvara
+ #säkpol
+ #psyops
+ #svpol
+
+§försvar_prefix
+Oroande: ^
+Intressant. ^
+Tanke: ^
+Fundering: ^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+
+§är_det_samma_som
+=
+betyder att
+är att
+
+§kräver
+KRÄVER
+MÅSTE GENAST ha
+behöver
+vill ha
+
+§vi_vill_ha
+Vi #kräver#
+
+§svensk_fästning
+Visby Ringmur
+stockholms ringförsvar
+Varbergs fästning
+Bohus fästning
+
+§dags_för
+Dags för
+Dags att vi skaffar
+Tid för
+Hög tid för
+Brådskande att införa
+Bör vi överväga
+Kanske nu intressant med
+Borde vi undersöka
+Dags att utreda
+
+§oroande_indikator
+#hör_om# #oro#
+
+§hör_om
+Läser i tidningen om
+Ser på TV om
+Har talat med vänner runtom om i välrden om
+Nyheter om
+
+§oro
+oro i #plats-ort#
+oroligheterna i #plats-ort#
+upprustning från #land#
+krisen i #land#
+
+§värt_att_försvara
+#svensk_bok#
+#svensk-kändis#
+#mat-prefix##mat-format#
+#svenska_företag#
+#idrottsföreningar#
+#svenska-orter-i#
+
+§stofil
+#overklig_död_kändis#
