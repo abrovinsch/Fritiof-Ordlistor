@@ -14,6 +14,12 @@
 
 §origin
 #försvarstweet.capitalize##försvar_suffix#
+#försvarstweet.capitalize##försvar_suffix#
+#försvarstweet.capitalize##försvar_suffix#
+#försvarstweet.capitalize##försvar_suffix#
+#försvarstweet.capitalize##försvar_suffix#
+#försvarstweet.capitalize##försvar_suffix#
+#värt_att_försvara.capitalize# #värtattförsvara
 
 §försvarstweet
 varför vill #vänsterorg# #vänsterförslag#?
@@ -22,8 +28,9 @@ varför vill #vänsterorg# #vänsterförslag#?
 #vi_vill_ha# #upprustning#
 #oroande_indikator#. #dags_för# #upprustning#?
 
+
+
 §p
-#värt_att_försvara.capitalize# #värtattförsvara
 
 §pacifister
 Svenska Freds
@@ -253,10 +260,11 @@ krisen i #land#
 §värt_att_försvara
 #svensk_bok#
 #svensk-kändis#
-#mat-prefix##mat-format#
+Svensk #mat-prefix##mat-format#
 #svenska_företag#
 #idrottsföreningar#
 #svenska-orter-i#
+#svensk_film#
 
 §stofil
 #overklig_död_kändis#
