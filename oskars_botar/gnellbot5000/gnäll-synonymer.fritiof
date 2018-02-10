@@ -7,6 +7,27 @@ d
 d
 det
 
+§sjukt_att_syn
+sjukt att
+stört att
+#är_syn# #det_syn# sant att
+
+§någon_syn
+ngn
+någon
+
+§ihop_syn
+ihop
+tsm
+
+§legat_med_syn
+legat #med_syn#
+dansat #med_syn#
+tagit #drog# #med_syn#
+festat #med_syn#
+vart #ihop_syn# #med_syn#
+vart på #läger_konferens# #med_syn#
+
 §litar_på_syn
 litar[preposition:på]
 litar[preposition:på]
@@ -154,6 +175,10 @@ hur mår ni?
 gå o dö
 va ba tysta
 släpp d
+hur orkar folk
+ta det lugnt va
+slappna av nu
+<3 <3 <3
 f-u
 lägg av
 lägg ner
@@ -164,7 +189,22 @@ lycka till m d
 skärp er
 lugna ner er
 skaffa en hobby
-
+har ni 1 kul liv
+är avundsjuk
+...nice
+hur bär ni er åt?
+hur går det?
+ha d gött
+grattis!
+ok vi fattar
+berätta mer
+tell me more
+fascinerande!
+fortsätt med det
+är lite avis
+jag vill också
+gå vidare
+skärp er
 
 §kolon_syn
  -
@@ -190,7 +230,15 @@ nej
 nej
 nej
 
+§sluta_lägg_ner
+#lägga_ner_syn#
+#sök_hjälp_syn#
+
+
 §lägga_ner_syn
+#sluta_syn#
+#sluta_syn#
+#sluta_syn#
 #sluta_syn#
 lägga ner
 hålla käft
@@ -212,7 +260,7 @@ hemskt
 stört
 jävulskt
 gulligt
-#kanske_så##vidrigt_syn#
+[v:så ^]#50%##vidrigt_syn#
 
 §trött_syn
 tröt
@@ -221,6 +269,16 @@ less
 arg
 mätt
 sur
+
+§tycker_syn
+tycker
+tkr
+
+§gillar_syn
+gillar
+gillar
+#tycker_syn om
+uppskattar
 
 §är_syn
 är
@@ -250,6 +308,11 @@ haha
 
 §sluta_syn
 sluta
+sluta
+sluta
+sluta
+bara sluta
+bara sluta
 bara sluta
 sluta. #tidsangivelse#.
 bara sluta. För alltid.
@@ -303,3 +366,8 @@ sthlm
 världen
 mänskligheten
 samtiden
+
+§jobbat_för_syn
+har jobbat för
+blivit köpt av
+börjat jobba för

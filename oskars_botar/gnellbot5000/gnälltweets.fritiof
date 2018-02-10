@@ -10,6 +10,8 @@
 -insert stofila-namn
 -insert organisationer
 -insert stofil-mat
+-insert historia
+-insert aktiviteter
 
 §origin
 #prefix-generell##gnälltweet##suffix-generell#
@@ -20,7 +22,7 @@ idé till personlighet#kolon_syn# #personlighet#
 #folk_som# #personlighet##kolon_syn# #sök_hjälp_syn#
 #svärord# jag #var_med_om_nåt_dåligt#
 #nej_syn# jag tänker #inte_syn# #person_verb_infinitiv# #som_någon#
-om jag gillar #sak_att_va_trött_på#? #nej_syn#
+om jag #gillar_syn# #sak_att_va_trött_på#? #nej_syn#
 så #orimligt_syn# att #person_verb_infinitiv# #tidsangivelse#
 #vidrigt_syn##kolon_syn# #folk_som# #person_verb_presens#
 #är_syn# så #orimligt_syn# #trött_syn# på #sak-plural#
@@ -29,63 +31,91 @@ så #trött_syn# på #folk_syn# som #är_syn# #person_adjektiv_plural#
 #folk_syn# måste #sluta_syn# tro att de är #person_adjektiv_plural#
 #stoppa_syn# #sak-plural# #tidsangivelse#
 #jag_prefix##jag_gör_sak_syn# #orimligt_syn# #förstärkningsord# när #när_nåt_händer#
-ni som #pratar_syn# om #kändis##kolon_syn# #sluta_syn#
+ni som #pratar_syn# om #kändis##kolon_syn# #sluta_lägg_ner#
 #internet_sak# #är_syn# lika #kasst_syn# som #internet_sak#
 jag #tidsangivelse##kolon_syn# #jag_gör_sak_syn# #inte_inget#
-#folk_som# #pratar_syn# om #sak# måste #sluta_syn#
+#folk_som# #pratar_syn# om #sak# måste #lägga_ner_syn#
 #vidrigt_syn# #jävla_syn# #trött_syn# på #sak_att_va_trött_på#
 orkar #inte_syn# #folk_som# #är_syn# #person_adjektiv_plural#
 #sämst_syn# #tidsangivelse##lika_med_syn##sak_att_va_trött_på#
 #nej_syn# jag vill #inte_syn# ha nån #jävla_inget#'#sak-en#'
-#sämst_syn##kanske_tidangivelse##lika_med_syn##sak_att_va_trött_på#
+#sämst_syn#[v: #tidsangivelse#]#50%##lika_med_syn##sak_att_va_trött_på#
 #utelistan_namn#: #utelistan#
 tänker på #sak_att_va_trött_på#
 #saknar_syn# när #jag_du_nån# #gjorde_sak_syn#
-#vill_ska_syn# #bara_inget##göra_dålig_sak##kanske_tidangivelse#
+#saknar_syn# #historisk_sak#
+#vill_ska_syn# #bara_inget##göra_dålig_sak#[v: #tidsangivelse#]#50%#
 #nej_syn# #sak_att_va_trött_på# #är_syn# #inte_syn# #bra_syn#
-#förstärkningsord# #adjektiv-en##kanske_tidangivelse#
+#förstärkningsord# #adjektiv-en#[v: #tidsangivelse#]#50%#
 #sluta_syn# snacka skit om #sak_att_va_trött_på#
-#stoppa_syn# #sak_att_va_trött_på##kanske_tidangivelse#
-#orimlighet##kolon_syn# #sök_hjälp_syn#
+#stoppa_syn# #sak_att_va_trött_på#[v: #tidsangivelse#]#50%#
 hade en #dröm_mardröm# om #sak_att_va_trött_på#
 #sak_att_ifrågasätta##kolon_syn# #bara_inget##vidrigt_syn##många_frågetecken#
 #sak_att_ifrågasätta##kolon_syn# #yes_or_no#
 tkr d e #adverb# att #person_verb_infinitiv##många_frågetecken#
 tkr #sak_att_va_trött_på# e #sämst_syn#
-#förstärkningsord# #adjektiv-en##kanske_tidangivelse#
-#kanske_mkt##kär_i# #kändis#
-#liknar_syn# #overklig_död_kändis##kanske_på_drog#
+#förstärkningsord# #adjektiv-en#[v: #tidsangivelse#]#50%#
+[v:#förstärkningsord# ^]#20%##kär_i# #kändis#
+#liknar_syn# #overklig_död_kändis#[v: på #drog#]#20%#
 #vill_ska_syn# #bara_inget##inte_inget#äta #mat#
 #fundera_på_kändis#
 #minns_syn# när #folk_syn# #gillade_sak#
 #sök_hjälp_syn# ni som #de_gör_sak_syn#
 #litar_på_syn# så #jävla_inget#lite #preposition# #sak_att_tro_på#
-#hatar_syn# #orimlighet# så #förstärkningsord##skiljetecken##allt_vidrigt_möts_kanske#
+#hatar_syn# #sak_att_va_trött_på# så #förstärkningsord##skiljetecken#[v:,#allt_vidrigt_möts# ^]#50%#
 #det_är_syn# #vidrigt_syn# #med_syn# #gnäll_grupp# som #de_gör_sak_syn#
-#kanske_tkr##det_är_syn# #vidrigt_syn# #med_syn# #sak_att_va_trött_på#
-#kanske_tkr##det_är_syn# #vidrigt_syn# #med_syn# #sak_att_va_trött_på#
-#nej_syn# #du_ni# #kmr_syn# #aldrig_inte# #se_ut_som_bli# #kändis##sluta_kanske#
-#kanske_nej##vill_ska_syn# #aldrig_inte# #person_verb_infinitiv#
-#kanske_så##vidrigt_syn# #med_syn# #sak_att_va_trött_på#
-#kanske_så##varför_syn# #gör_folk_sak##kanske_tidangivelse##många_frågetecken#
-#kanske_så##varför_syn# #är_syn# #sak-plural# så #adjektiv-plural##många_frågetecken#
-#kanske_nej##följer_soc_med# #aldrig_inte# #nån_att_följa#
+[v:#tycker_syn# ^]#20%##det_är_syn# #vidrigt_syn# #med_syn# #sak_att_va_trött_på#
+[v:#tycker_syn# ^]#20%##det_är_syn# #vidrigt_syn# #med_syn# #sak_att_va_trött_på#
+#nej_syn# #du_ni# #kmr_syn# #aldrig_inte# #se_ut_som_bli# #kändis#[v:, #sluta_lägg_ner#]#50%#
+[v:#nej_syn# ^]#50%##vill_ska_syn# #aldrig_inte# #person_verb_infinitiv#
+[v:så ^]#50%##vidrigt_syn# #med_syn# #sak_att_va_trött_på#
+[v:så ^]#50%##varför_syn# #gör_folk_sak#[v: #tidsangivelse#]#50%##många_frågetecken#
+[v:så ^]#50%##varför_syn# #är_syn# #sak-plural# så #adjektiv-plural##många_frågetecken#
+[v:#nej_syn# ^]#50%##följer_soc_med# #aldrig_inte# #nån_att_följa#
 #när_jag_tar_över# #så_händer_sak#
 #nej_syn# jag #vill_ska_syn# #inte_syn# #lyssna_på_syn# #sak_att_berätta_om#
 #klaga_på_mat#
 #orkar_inte_skrik.capitalize#
-#folk_syn# som #gjort_sak# kan #ni_snälla_kanske##lägga_ner_syn#
+#folk_syn# som #gjort_sak# kan [v:ni snälla ^]#25%##lägga_ner_syn#
 #jaha_syn# #varför_syn# #vill_ska_syn# #jag_syn# #göra_sak#
 #begriper_syn# #inte_syn# #varför_syn# #folk_syn# #är_syn# #person_adjektiv_plural#
-#det_är_syn# #något_syn# #kanske_så##vidrigt_syn# #med_syn# #sak_att_va_trött_på#
-#kanske_haha##sak_att_va_trött_på##kanske_haha##kanske_haha##kanske_frågetecken#
+#det_är_syn# #något_syn# [v:så ^]#50%##vidrigt_syn# #med_syn# #sak_att_va_trött_på#
+[v: #haha_syn# ^]#33%##sak_att_va_trött_på#[v: #haha_syn# ^]#33%#[v: #haha_syn# ^]#33%#[v:#många_frågetecken#]#50%#
 #göra_sin_egen_grej.capitalize##många_uttropstecken#
+#sjukt_att_syn# #svensk-kändis# #gjort_sak##många_frågetecken#
+#du_ni# som #gjort_sak##kolon_syn# #sök_hjälp_syn#
 
 §p
+#nej_syn# om #jag_syn# skulle [v:ta och ]#25%##göra_dålig_sak# [v:lite]#33%#
 
+§någon_att_va_ihop_med
+mig
+#svensk-kändis#
+
+§50%
+#v#
+^
+
+§33%
+#v#
+^
+^
+
+§25%
+#v#
+^
+^
+^
+
+§20%
+#v#
+^
+^
+^
+^
 
 §göra_sin_egen_grej
-#kanske_tkr##folk_syn# #borde_syn# #verb_substantiv_par_en##pair1# sin egna #jävla_syn# #pair2#
+[v:#tycker_syn# ^]#20%##folk_syn# #borde_syn# #verb_substantiv_par_en##pair1# sin egna #jävla_syn# #pair2#
 
 §göra_sak
 #person_verb_infinitiv#
@@ -93,41 +123,46 @@ tkr #sak_att_va_trött_på# e #sämst_syn#
 #lyssna_på_syn# #sak_att_va_trött_på#
 va #adjektiv-p
 
-§kanske_haha
- #haha_syn# ^
-^
-^
-
-§kanske_frågetecken
-#många_frågetecken#
-^
-
 §gjort_sak
 har #person_verb_perfekt#
+har #person_verb_perfekt# #med_syn# #svensk-kändis#
+har #legat_med_syn# #svensk-kändis#
 heter #stofilt-förnamn#
 kommer från #ort#
-vill #berätta_syn# om #orimlighet#
-ska åka till #plats-ort#
+vill #berätta_syn# om #sak_att_va_trött_på#
+ska #åka_flytta# till #plats-ort#
 #följer_soc_med# #nån_att_följa#
+ska laga #stofil-maträtt#
+ska va med i nästa #filmer-spel-serier#
+#jobbat_för_syn# #organisation#
+har #ett-djur# hemma
+är släkt med #kändis#
+blivit besatt av #historisk_sak#
+gått med i #föreningar#
+#älskar_hatar# #kändis#
+åkt på #läger_konferens# #i-ort#
+
+§älskar_hatar
+älskar
+älskar
+hatar
+avskyr
 
 §göra_idag
 #person_verb_infinitiv#
 
+§åka_flytta
+åka
+flytta
+resa
 
 §förstöra
 sabotöra
 förstöra
 smutsa ner
 
-
-§ni_snälla_kanske
-ni snälla ^
-^
-^
-^
-
 §orkar_inte_skrik
-#kanske_så##trött_syn# på #sak_att_va_trött_på#
+[v:så ^]#50%##trött_syn# på #sak_att_va_trött_på#
 
 §klaga_på_mat
 #mat-sak# smakar #vidrigt_syn#
@@ -142,6 +177,9 @@ när jag tar över
 när jag blir #diktator_syn#
 efter revolutionen
 i framtiden
+i mitt sverige
+i en rimligare värld
+efter valet
 
 §sak_att_berätta_om
 #land#
@@ -153,6 +191,7 @@ din #plagg-en#
 din #mat-en#
 #orimlighet#
 #kulturellt_verk#
+#historisk_sak#
 
 §den_som_får_göra_nåt
 jag
@@ -182,6 +221,7 @@ får ingen #person_verb_infinitiv#
 #kmr_syn# alla som #gör_sak_syn# #få_lida_syn#
 ska vi förbjuda #sak_att_va_trött_på#
 får bara #den_som_får_göra_nåt# #person_verb_infinitiv#
+så blir det som #historisk_sak#
 
 §gör_sak_syn
 har d najs
@@ -226,10 +266,6 @@ kollar
 aldrig
 #inte_syn#
 
-§kanske_nej
-#nej_syn# ^
-^
-
 §se_ut_som_bli
 se ut som
 bli som
@@ -237,24 +273,10 @@ likna
 va som
 påminna om
 
-§sluta_kanske
-, #sluta_syn#
-^
-
-§allt_vidrigt_möts_kanske
+§allt_vidrigt_möts
  allt d #värsta_syn# m #samhället_syn# #möts_syn#
  alla #idioter_syn# #möts_syn#
  alla #idioter_syn# älskar d
-^
-^
-
-§kanske_tkr
-tkr ^
-tycker ^
-^
-^
-^
-^
 
 §sak_att_tro_på
 #gnäll_grupp#
@@ -289,35 +311,63 @@ samlas
 #grupp#
 killar
 killar
-killar
 snubbar
 studenter
 tjejer
 vuxna
 barn
+pensionärer
+gamlingar
+borgare
+arbetare
+sossar
+nördar
+töntar
+småbarn
+tonåringar
+föreninglivssmänniskor
+lantisar
+stadsbor
+långa
+korta
+smarta
+dumma
+män
+kvinnor
+tanter
+gubbar
+gummor
+farbröder
+akademiker
 #folk_syn#
+#artist#-fans
+#kändis#-fans
 #person_adjektiv_plural# #gnäll_grupp_#
 #person_adjektiv_plural# #gnäll_grupp_#
+tjejer
+tjänstemän
+medelklassmänniskor
+överklassmänniskor
 
 §med_egenskap
 som #gillade_sak#
-#med_syn# mössa inomhus
+#med_syn# #plagg-en# inomhus
 #med_syn# ful #plagg-en#
-som tycker om #mat-sak#
+som #gillar_syn# om #mat-sak#
+som liknar #kändis#
+som lyssnar på #artist#
+som använder #internet_sak#
+som är med i #föreningar#
 
 §fundera_på_kändis
-#kanske_mkt##kär_i# #kändis#
-#funderar_kanske##vad_gör_kändis# #tidsangivelse##många_frågetecken#
+[v:#förstärkningsord# ^]#20%##kär_i# #kändis#
+[v:,#funderar_på_syn# ^]#25%##vad_gör_kändis# #tidsangivelse##många_frågetecken#
 
 §gillade_sak
 gillade #sak_att_va_trött_på#
-tyckte #kulturellt_verk# va #kanske_så#bra
+tyckte #kulturellt_verk# va [v:så ^]#50%#bra
 trodde #sak_att_va_trött_på# va coolt
 tyckte #klädsak# va snyggt
-
-§kanske_så
-så ^
-^
 
 §vad_gör_kändis
 va gör #kändis#
@@ -330,33 +380,13 @@ vad gööööör #svensk-kändis#
 
 §liknar_syn
 hjälp #liknar_syn#
-liknar#kanske_tidangivelse#
-ser#kanske_tidangivelse# ut som
+liknar[v: #tidsangivelse#]#50%#
+ser[v: #tidsangivelse#]#50%# ut som
 #jag_du_nån# påminner om
 
-§funderar_kanske
-funderar på ^
-tänker nu på ^
-^
-^
-^
-^
-^
-^
-
-§kanske_på_drog
- på #drog#
-^
-^
-^
-^
-
-§kanske_mkt
-#förstärkningsord# ^
-^
-^
-^
-^
+§funderar_på_syn
+funderar på
+tänker nu på
 
 §kär_i
 kär i
@@ -409,10 +439,6 @@ du
 min #man-kvinna#
 #person_verb_infinitiv#
 
-§kanske_tidangivelse
- #tidsangivelse#
-^
-
 §bara_inget
 bara ^
 ^
@@ -423,11 +449,34 @@ avfölja #folk_syn#
 håna #folk_syn#
 gråta
 ta #droger#
-förstöra #sak-plural#
+#förstöra# #sak-plural#
+#förstöra# #sak#
+#förstöra# #sak#
+#förstöra# #sak#
 va #med_syn# #kändis#
 gifta mig #med_syn# #kändis#
-döda
+laga #mat-sak#
 sova
+fuska i #spel#
+titta på #film#
+#synda_infinitv#
+hylla #historisk-person#
+
+§synda_infinitv
+synda
+svika min #min_egenskap#
+svika min #min_egenskap#
+svika min #min_egenskap#
+döda #någon_syn#
+hava andra gudar vid sidan av mig
+begå äktenskapsbrott
+stjäla
+vittna falskt mot din nästa
+ha begär till din nästas hus
+min nästas tjänare eller hans tjänarinna
+missbruka Herrens, min Guds, namn
+vanhelga sabbatsdagen
+visa oaktning för min far och din mo
 
 §saknar_syn
 saknar #förstärkningsord#
@@ -450,6 +499,7 @@ vill tbx till
 #plats-ort#
 #person_adjektiv_plural# #grupp#
 #min_egenskap#
+#historisk_sak#
 
 §min_egenskap
 mitt humör
@@ -563,10 +613,19 @@ sjukt
 
 §tidsangivelse
 nu
+nu
+nu
+nu
+nu
 right now
 just nu
 i år
+i år
 idag
+idag
+nån gång
+snart
+igår
 2018
 
 §när_nåt_händer
@@ -618,6 +677,7 @@ helvete
 §som_någon
 som nåt slags djur
 som en #jävla_syn# #person-typ#
+som en #störig_person#
 
 §orimlighet
 elallergi
@@ -680,6 +740,23 @@ bitcoin
 nocco
 snö
 #mat-sak#
+stockholm
+göteborg
+skåne
+norrland
+humor
+musik
+bröd
+brunch
+lunch
+restauranger
+pubar
+stor stark
+vesuvio
+kebab
+falafel
+surdegsbröd
+löskokt ägg
 
 §prefix-generell
 asså ^
@@ -702,6 +779,11 @@ unpopular opinion: ^
 sanningen#kolon_syn# ^
 mmmm känner så här#kolon_syn# ^
 #haha_syn#
+mmmm ^
+ah ^
+tanke#kolon_syn#: ^
+känsla#kolon_syn#: ^
+ärligt talat ^
 ^
 ^
 ^
@@ -747,7 +829,13 @@ mmmm känner så här#kolon_syn# ^
 ^
 ^
 ^
-
+^
+^
+^
+^
+^
+^
+^
 ^
 ^
 ^
@@ -845,3 +933,11 @@ vidrigt
 sjukt
 kasst
 grymt
+
+§störig_person
+idiot
+idiot
+tönt
+gubbe
+tant
+#djur-en#

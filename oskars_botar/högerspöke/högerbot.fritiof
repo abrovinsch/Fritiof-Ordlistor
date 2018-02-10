@@ -13,13 +13,13 @@
 -insert organisationer
 
 §origin
-#försvarstweet.capitalize##försvar_suffix#
-#försvarstweet.capitalize##försvar_suffix#
-#försvarstweet.capitalize##försvar_suffix#
-#försvarstweet.capitalize##försvar_suffix#
-#försvarstweet.capitalize##försvar_suffix#
-#försvarstweet.capitalize##försvar_suffix#
-#värt_att_försvara.capitalize# #värtattförsvara
+#försvar_prefix##försvarstweet.capitalize##försvar_suffix#
+#försvar_prefix##försvarstweet.capitalize##försvar_suffix#
+#försvar_prefix##försvarstweet.capitalize##försvar_suffix#
+#försvar_prefix##försvarstweet.capitalize##försvar_suffix#
+#försvar_prefix##försvarstweet.capitalize##försvar_suffix#
+#försvar_prefix##försvarstweet.capitalize##försvar_suffix#
+#värt_att_försvara.capitalize# \\#värtattförsvara
 
 §försvarstweet
 varför vill #vänsterorg# #vänsterförslag#?
@@ -31,6 +31,8 @@ varför vill #vänsterorg# #vänsterförslag#?
 
 
 §p
+\\#
+\n
 
 §pacifister
 Svenska Freds
@@ -165,6 +167,9 @@ en moderniserad #svensk_fästning#
 
 §gå_fiendes_ärenden
 gå #fiende#s ärenden
+hjälpa #fiende#
+vara #fiende#s nyttiga idiot
+gynna #fiende#s intressen
 
 §försvar_suffix
 ^
@@ -172,16 +177,33 @@ gå #fiende#s ärenden
 ^
 ^
 ^
- #värtattförsvara
- #säkpol
- #psyops
- #svpol
+ \\#värtattförsvara
+ \\#säkpol
+ \\#psyops
+ \\#svpol
+ \\#svfm
 
 §försvar_prefix
 Oroande: ^
 Intressant. ^
 Tanke: ^
 Fundering: ^
+Snälla nån! ^
+Stilla tanke: ^
+Så här: ^
+Min åsikt: ^
+Herregud! ^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
 ^
 ^
 ^
