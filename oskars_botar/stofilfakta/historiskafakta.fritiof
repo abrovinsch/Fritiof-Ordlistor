@@ -1,0 +1,284 @@
+-insert kändisar
+-insert kultur
+-insert djur
+-insert geografi
+-insert stofila-saker
+
+§t
+#historisk-person# #var_med_om_otrolig_sak#
+
+§fakta_om_historia
+#fakta_om_historia_prefix# #historisk_fakta#
+#historisk_fakta#
+#historisk_fakta#
+
+§historisk_fakta
+#historisk-person##vid_tid# #hade_relation_till# #stofilt_område#
+#historisk-person# #influerade# #obskyr_rörelse#
+#historisk-person# #var_med_om_otrolig_sak#
+#historisk-person# #var_med_om_otrolig_sak#
+#stofil_uppfinning# #uppfanns##först_syn# #historisk_upphovsgrupp##uppfinnings_öde#
+
+
+§hade_relation_till
+#älskade_syn#
+#avskydde_syn#
+#var_intresserad_av#
+
+§avskydde_syn
+avskydde
+hatade
+
+§var_intresserad_av
+var intresserad av
+blev inspirerad av
+uppskattade
+studerade
+
+§influerade
+inspirerade
+influerade
+var en #förebild# för
+påverkade
+
+§förebild
+förebild
+inspiration
+inspiratör
+viktig teoretiker
+
+§älskade_syn
+älskade
+gillade
+tyckte om
+tyckte #mycket_syn# om
+var tokig i
+var besatt av
+uppskattade
+
+§mycket_syn
+massor
+jättemycket
+
+§vid_tid
+ aldrig
+^
+^
+^
+^
+^
+^
+^
+ i sin ungdom
+ vid ålderns höst
+ i slutet av livet
+ en tid
+ i tonåren
+
+§historiskt_land
+Hertigdömet Burgund
+Hertigdömet Aquitanien
+Böhmen
+Preussen
+Frankrike
+Norge
+Osmanska riket
+Republiken Venedig
+Katalonien
+Palestina
+Kuba
+Portugal
+Belgien
+Finand
+Weimar-Republiken
+Marocko
+Quebec
+Schweiz
+Bayern
+Österrike-Ungern
+Furstendömet Navarra
+Sumerriket
+Assyrien
+Romarriket
+Frankerriket
+Babylonien
+Persien
+Kastillien
+Reval
+Wales
+Skottland
+Västergötland
+
+§stofil_uppfinning
+#stofil_idrott#
+världens första #stofil_apparat#
+en primitiv #stofil_apparat#
+
+§stofil_apparat
+#apparat#
+#mekanik_sak#
+
+§uppfanns
+uppfanns
+utvecklades
+testades
+
+§uppfinnings_öde
+^
+ men #glömdes_bort#
+
+§glömdes_bort
+föll i glömska
+glömdes bort
+aldrig användes
+den ansågs #inte_ok#
+förbjöds då av #historiska_makthavare#
+
+§inte_ok
+vara för syndigt
+som slöseri
+vara onödigt av #historiska_makthavare#
+vara för farligt
+vara ond magi
+
+§historiska_makthavare
+armén
+prästerskapet
+handelsmännen
+aristokratin
+regeringen
+
+§först_syn
+ redan
+^
+^
+
+§fakta_om_historia_prefix
+nya rön #hävdar# att
+#akademiskposition# #efternamn.capitalize##vid_lärosäte# #hävdar# att
+mycket tyder på att
+det finns #skäl# att tro att
+modern forskning #hävdar# att
+
+§hävdar
+hävdar
+ljuger om
+har visat
+påstår
+indikerar
+tror
+
+§historisk_upphovsgrupp
+i #historiskt_land#
+av #historisk_grupp_bestämd_form#
+av #historiska_makthavare# i #historiskt_land#
+
+§historisk_grupp_bestämd_form
+de gamla egyptierna
+sumererna
+de gamla grekerna
+romarna
+azterkerna
+vikingarna
+habsburgarna
+morerna
+perserna
+mongolerna
+Iroquois-indianerna
+Apache-indianerna
+de bibliska hebreerna
+
+§var_med_om_otrolig_sak
+förlorade ett #kroppsdel-ett# i #sak_attförlora_kroppsdel_av#
+var #pinsam_sak_att_vara# #hela_livet#
+var hemsökt av #onda_andar#
+inte kunde #person_verb_infinitiv#
+#nämns# i #filmer-spel-serier#
+#gjorde_grej# #merän##siffra# gånger
+
+§nämns
+nämns
+omnämns
+figurerar
+
+§merän
+mer än ^
+över ^
+minst ^
+^
+^
+^
+^
+
+§gjorde_grej
+fick barn
+blev refuserad
+tappade förståndet
+bytte identitet
+gifte om sig
+korsade #hav#
+överlevde #katastrof#
+besökte #avlägsen_plats#
+
+§katastrof
+#stofilt_utrikisk#a lönnmördare
+mystiska mordförsök
+angripande #djur-plural#
+blixtndeslag
+personlig konkurs
+skeppsbrott
+
+§älskare_fiende
+älskare
+barn
+dödsfiender
+systrar
+beskydadare
+
+§hela_livet
+livet ut
+hela livet
+till sin död
+
+§pinsam_sak_att_vara
+oskuld
+analfabet
+utan självdistans
+humorlös
+pank
+tondöv
+
+§sak_attförlora_kroppsdel_av
+ett slagsmål med en #djur-en#
+en #mekanik_sak#
+
+§onda_andar
+#hemska# #spöken#
+
+§hemska
+onda
+hemska
+vidriga
+små
+elaka
+osynliga
+
+§spöken
+andar
+spöken
+djävlar
+tomtar
+demoner
+gaster
+små spök#djur-plural#
+
+§diagnos
+psykopat
+megolomaniker
+
+§skäl
+skäl
+anledning
+vissa skäl
+starka skäl
+goda skäl

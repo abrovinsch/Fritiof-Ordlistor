@@ -5,6 +5,8 @@
 -insert orter
 -insert organisationer
 -insert föremål
+-insert oskars_botar/stofilfakta/historiskafakta
+-insert oskars_botar/stofilfakta/landfakta
 
 §origin
 Visste du att #stofilfakta#?
@@ -15,11 +17,11 @@ Visste du att #stofilfakta#?
 #fakta_om_historia#
 
 §fakta_om_figur
+#stofil_profil# #var_med_om_otrolig_sak#
 #stofil_profil# var #stofil_position#
-#stofil_profil#s stora intresse var #stofilt_intresse#
+#stofil_profil#s #intresse# var #stofilt_område#
 #stofil_figur# var #stofil_profil#s #könsneutralförbindelse#
 #stofil_profil# #uträttade_livsprojekt# #i-ort#
-
 
 §uträttade_livsprojekt
 gifte sig
@@ -33,26 +35,24 @@ läste #stofilt_akademiskt_ämne#
 #stofil_person#
 #stofil_person#s #släkting#
 
+§obskyr_rörelse
+den #stofilt_utrikisk#a #ismer#en
+
 §stofil_figur
 #mat-yrke# #stofilt-namn#
 
 §stofil_position
 #föreningsposition# i #stofilt_sällskap#
 #akademiskposition# i #stofilt_akademiskt_ämne##vid_lärosäte#
+#stofilt_utrikisk# #spion#
 
 §sf-sällskap
 #föreningar#
 #stofilt_sällskap#
 
-§vid_lärosäte
-
- i #lärosätesort#
- vid #lärosätesort#s universitet
-
-§lärosätesort
-Lund
-Uppsala
-Åbo
+§spion
+spion
+agent
 
 §könsneutralförbindelse
 förebild
@@ -63,3 +63,24 @@ största sponsor
 största fan
 klasskamrat
 hemliga älskare
+
+§intresse
+#intresse_adj##intresse_syn#
+
+§intresse_adj
+stora ^
+livslånga ^
+enda ^
+ungdoms^
+^
+^
+^
+^
+^
+
+
+§intresse_syn
+passion
+intresse
+hobby
+specialintresse

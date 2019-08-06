@@ -17,12 +17,21 @@ Föreningen
 Klubben
 Brödraskapet
 
-§stofilt_intresse
+§stofilt_område
 #stofilt_akademiskt_ämne#
 #stofilt_utrikisk# #stofilt_ämnesområde#
 #stofilt_ämnesområde#
 #stofil_idrott#
 att #göra_stofil_sak#
+att #göra_stofil_sak#
+#stofil_idrott#
+#ismer#
+#ismer#
+#litteratur#
+#land#
+#land#
+#mat-sak#
+#stofila_konstarter#
 
 §göra_stofil_sak
 dikta på #språk#
@@ -129,6 +138,28 @@ keltisk
 engelsk
 fransk
 norsk
+ottomansk
+venedisk
+preussisk
+brittisk
+katalansk
+palestinsk
+arabisk
+österrikisk
+kubansk
+bayersk
+portugisisk
+persisk
+lybsk
+belgisk
+skandinavisk
+finsk
+tysk
+schweizisk
+italiensk
+bengalisk
+javanesisk
+marockansk
 grekisk
 rysk
 semitisk
@@ -159,3 +190,27 @@ schack
 löpning
 hästpolo
 majong
+
+§vid_lärosäte
+
+ i #lärosätesort#
+ vid #lärosätesort#s universitet
+
+§lärosätesort
+Lund
+Uppsala
+Åbo
+
+§stofila_konstarter
+buskis
+fars
+seriestrippar
+dragspelslåtar
+revy
+veteranbilar
+visor
+limerickar
+snusk
+erotisk poesi
+vaudeville
+burlesque

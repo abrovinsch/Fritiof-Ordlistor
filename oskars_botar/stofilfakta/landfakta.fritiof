@@ -1,0 +1,241 @@
+-insert oskars_botar/stofilfakta/historiskafakta
+-insert stofila-saker
+-insert kultur
+-insert stofil-mat
+-insert saker
+
+§fakta_om_land
+#fakta_om_historia_prefix# #landfakta#
+#landfakta#
+#landfakta#
+
+§landfakta
+#stofil_land# #är_var# #världens# #största_främsta# producent av #stofil_vara#
+#ort_har_kallats_nåt_annat#
+#stofil_land# #är_var# #världens# #största_främsta# #land_sett_till_metric#
+#stofil_land# #förr_hade# #antal_farligheter# #farligheter_beskrivning# #farligheter_i_landet#
+
+§ort_har_kallats_nåt_annat
+#stofil_land# #har_kallats# '#land# för #människo_kategori#'
+#ort_har_kallats# '#nordens# #internationell_stad#'?
+
+§ort_har_kallats
+#ort-i-legacy# #har_kallats#
+#stofil_profil# kallade #ort-i-legacy#
+
+§har_kallats
+brukar kallas
+kallas
+ofta benämns som
+har tillnamnet
+har kallats
+
+§nordens
+Skandinvaiens
+Sveriges
+Lilla
+Norra
+Nordens
+
+§förr_hade
+#länge_syn# hade
+#fortfarande_syn# har
+#troligtvis_syn# hade
+#förr_syn# hade
+
+§är_var
+#länge_syn# var
+#fortfarande_syn# är
+#troligtvis_syn# var
+#förr_syn# var
+
+§förr_syn
+förr
+förritiden
+tidigare
+
+§fortfarande_syn
+fortfarande
+ännu
+
+§länge_syn
+länge
+under lång tid
+
+§troligtvis_syn
+troligtvis
+sannolikt
+antagligen
+med stor sannolikhet
+
+§världens
+världens
+europas
+historiens
+jordens
+
+§största_främsta
+största
+största
+största
+enda riktiga
+minsta
+sämsta
+främsta
+bästa
+
+§stofil_land
+#historiskt_land#
+#svenskt_landskap#
+
+§stofil_vara
+#klassiska_konstarter#
+#stofila_konstarter#
+#mat-sak#
+#lukter#
+
+§svenskt_landskap
+Blekinge
+Bohuslän
+Dalarna
+Dalsland
+Gotland
+Gästrikland
+Halland
+Hälsingland
+Härjedalen
+Jämtland
+Lappland
+Medelpad
+Norrbotten
+Närke
+Skåne
+Småland
+Södermanland
+Uppland
+Värmland
+Västerbotten
+Västergötland
+Västmanland
+Ångermanland
+Öland
+Östergötland
+
+§percapita_saker
+#djur-plural#
+
+§sak_per_capita
+#siffra# #percapita_saker# per person
+
+§per_capita_gick
+gick
+fanns
+räknades
+
+§människo_kategori
+tjejer
+tjänstemän
+medelklassmänniskor
+överklassmänniskor
+killar
+killar
+snubbar
+studenter
+tjejer
+vuxna
+barn
+pensionärer
+gamlingar
+borgare
+arbetare
+sossar
+nördar
+töntar
+småbarn
+tonåringar
+föreninglivssmänniskor
+lantisar
+stadsbor
+långa
+korta
+smarta
+dumma
+män
+kvinnor
+tanter
+gubbar
+gummor
+farbröder
+akademiker
+
+§land_sett_till_metric
+#land_syn# sett till ytan
+#land_syn# i kulturellt hänseende
+#land_syn# räknat i akademiska poäng
+#land_syn# mätt i historisk betydelse
+#land_syn# mätt i språkligt inflytande
+#land_syn# mätt i antal turister
+#land_syn# mätt i antal #djur-plural#
+#land_syn# sett till befolkningen
+mäktigaste #land_syn#
+ekonomi sett till BNP?
+
+§land_syn
+land
+rike
+stat
+
+§antal_farligheter
+0 antal
+över #num#00
+mängder av
+världens största mängd
+
+§farligheter_i_landet
+#stofila_platser#
+#stofila_föreningar#
+
+§stofila_platser
+ölkällare
+muséer
+akademiska institutioner
+mjölkbarer
+dansbanor
+nykterhetsloger
+spelhålor
+#stofila_konstarter#-scener
+bryggerier
+bokklubbar
+literrära salonger
+folkhögskolor
+
+§stofila_föreningar
+hembygdsföreningar
+ordensällskap
+hemliga sällskap
+klubbar
+nykterhetsloger
+adelsfamiljer
+separatistgrupper
+grupperingar
+kyrkor
+#djur_plural#
+partier
+
+§farligheter_beskrivning
+registrerade
+illegala
+inofficiella
+aktiva
+samhällsfarliga
+
+§num
+1
+2
+3
+4
+5
+6
+7
+8
+9
