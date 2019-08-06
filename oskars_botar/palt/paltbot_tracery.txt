@@ -1,0 +1,2266 @@
+{
+"det_är_syn":[
+"#det_syn# #är_syn#",
+"#det_syn# #är_syn#",
+"d"
+],
+
+"det_syn":[
+"d",
+"det"
+],
+
+"sjukt_att_syn":[
+"sjukt att",
+"stört att",
+"#är_syn# #det_syn# sant att"
+],
+
+"någon_syn":[
+"ngn",
+"någon"
+],
+
+"ihop_syn":[
+"ihop",
+"tsm"
+],
+
+"ni_alla_syn":[
+"alla",
+"alla",
+"ni",
+"ni",
+"de"
+],
+
+"1_in_3":[
+"#v#",
+"",
+""
+],
+
+"knäppa_syn":[
+"[v:#förstärkningsord# ]#1_in_3#knäppa",
+"knäppa",
+"konstiga",
+"dumma",
+"löjliga",
+"inte kloka",
+"...",
+"#gnäll_grupp#",
+"förtappade",
+"inte riktigt kloka",
+"lite eljest",
+"störda",
+"koko"
+],
+
+"1_in_10":[
+"#v#",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+""
+],
+
+"min_dröm_syn":[
+"[v:#inte_syn# ]#1_in_10##min dröm#kolon_syn#",
+"[v:#inte_syn# ]#1_in_10##goals#kolon_syn#",
+"[v:#inte_syn# ]#1_in_10##dröm#kolon_syn#",
+"tänk att"
+],
+
+"legat_med_syn":[
+"legat #med_syn#",
+"dansat #med_syn#",
+"tagit #drog# #med_syn#",
+"festat #med_syn#",
+"vart #ihop_syn# #med_syn#",
+"vart på #läger_konferens# #med_syn#"
+],
+
+"litar_på_syn":[
+"litar[preposition:på]",
+"litar[preposition:på]",
+"tror[preposition:på]",
+"lyssnar[preposition:på]",
+"bryr mig[preposition:om]",
+"har[preposition:tilltro till]",
+"tänker[preposition:på]"
+],
+
+"kär_i":[
+"kär i",
+"nyfiken på",
+"avundsjuk på",
+"förebild#kolon_syn#",
+"#funderar_på_syn#",
+"minns",
+"vad gör"
+],
+
+"lyssna_på_syn":[
+"höra #dig_er# #berätta_syn# om",
+"ha #din_er# take på",
+"läsa om",
+"höra #dina_era# tankar om",
+"låta #dig_er# #berätta_syn# om",
+"att #du_ni# ska #berätta_syn# om"
+],
+
+"berätta_syn":[
+"föreläsa",
+"berätta",
+"prata",
+"tjata",
+"snacka",
+"tala",
+"skriva",
+"twittra"
+],
+
+"begriper_syn":[
+"begriper",
+"fattar",
+"förstår"
+],
+
+"inte_syn":[
+"inte",
+"inte",
+"inte",
+"nt"
+],
+
+"något_syn":[
+"något",
+"något",
+"ngt"
+],
+
+"jaha_syn":[
+"jaha",
+"ok"
+],
+
+"jag_syn":[
+"jag",
+"jag",
+"jag",
+"ja",
+"man"
+],
+
+"vad_syn":[
+"va",
+"vad"
+],
+
+"gilla_syn":[
+"gilla",
+"tycka om",
+"uppskatta"
+],
+
+"funderar_på_syn":[
+"funderar på",
+"tänker nu på",
+"tänker på"
+],
+
+"minns_syn":[
+"minns",
+"minns",
+"minns",
+"minns ni",
+"kommer ihåg",
+"kommer ihåg",
+"kommer ni ihåg"
+],
+
+"vill_ska_syn":[
+"vill",
+"ska",
+"kommer",
+"kmr",
+"tänker"
+],
+
+"få_lida_syn":[
+"straffas",
+"skambeläggas",
+"deporteras"
+],
+
+"rest_till_syn":[
+"rest till",
+"åkt till",
+"vart i",
+"besökt"
+],
+
+"varför_syn":[
+"vrf",
+"varför"
+],
+
+"diktator_syn":[
+"diktator",
+"statsminister",
+"kung",
+"enväldig härskare",
+"president"
+],
+
+"pratar_syn":[
+"pratar",
+"twittrar",
+"snackar",
+"fortfarande pratar",
+"tjatar"
+],
+
+"kmr_syn":[
+"kommer",
+"kmr"
+],
+
+"med_syn":[
+"med",
+"m"
+],
+
+"bra_syn":[
+"bra",
+"nice",
+"_bra_",
+"så bra"
+],
+
+"tråkiga_syn":[
+"tråkiga",
+"#sämst_syn#"
+],
+
+"jag_gör_sak_syn":[
+"#gör_sak_syn#",
+"#gör_sak_syn#",
+"#gör_sak_syn#",
+"#gör_sak_syn#",
+"#gör_sak_syn#",
+"njuter",
+"lider",
+"gråter",
+"får ångest",
+"får panik",
+"skrattar"
+],
+
+"sök_hjälp_syn":[
+"sök hjälp",
+"bara dö",
+"e d ok?",
+"hur mår ni?",
+"gå o dö",
+"va ba tysta",
+"släpp d",
+"hur orkar folk",
+"ta det lugnt va",
+"slappna av nu",
+"<3 <3 <3",
+"f-u",
+"lägg av",
+"lägg ner",
+"snälla bara sluta",
+"chilla",
+"slappna av lite",
+"lycka till m d",
+"skärp er",
+"lugna ner er",
+"skaffa en hobby",
+"har ni 1 kul liv",
+"är avundsjuk",
+"...nice",
+"hur bär ni er åt?",
+"hur går det?",
+"ha d gött",
+"grattis!",
+"ok vi fattar",
+"berätta mer",
+"tell me more",
+"fascinerande!",
+"fortsätt med det",
+"är lite avis",
+"jag vill också",
+"gå vidare",
+"skärp er"
+],
+
+"kolon_syn":[
+" -",
+":",
+"..."
+],
+
+"orimligt_syn":[
+"orimligt",
+"sjukt",
+"stört",
+"pinsamt"
+],
+
+"nej_syn":[
+"nä",
+"eh nej",
+"nej",
+"nej (lol)",
+"nej",
+"#flera_nej#"
+],
+
+"flera_nej":[
+"#flera_nej# #flera_nej#",
+"nej",
+"nej"
+],
+
+"sluta_lägg_ner":[
+"#lägga_ner_syn#",
+"#sök_hjälp_syn#"
+],
+
+"lägga_ner_syn":[
+"#sluta_syn#",
+"#sluta_syn#",
+"#sluta_syn#",
+"#sluta_syn#",
+"lägga ner",
+"hålla käft",
+"bara gå",
+"gå o dö",
+"skärp er",
+"sluta",
+"va tysta",
+"fuck right off",
+"dra"
+],
+
+"vidrigt_syn":[
+"vidrigt",
+"vidrigt",
+"vidrigt",
+"äckligt",
+"sjukt",
+"hemskt",
+"stört",
+"jävulskt",
+"gulligt",
+"[v:så ]#1_in_2##vidrigt_syn#"
+],
+
+"1_in_2":[
+"#v#",
+""
+],
+
+"trött_syn":[
+"trött",
+"trööööött",
+"less",
+"arg",
+"mätt",
+"sur"
+],
+
+"tycker_syn":[
+"tycker",
+"tkr"
+],
+
+"gillar_syn":[
+"gillar",
+"gillar",
+"#tycker_syn# om",
+"uppskattar"
+],
+
+"är_syn":[
+"är",
+"e"
+],
+
+"många_uttropstecken":[
+"!!!",
+"!!",
+"!",
+"#många_uttropstecken##många_uttropstecken#"
+],
+
+"borde_syn":[
+"borde",
+"måste",
+"kan väl",
+"får",
+"måste lära"
+],
+
+"haha_syn":[
+"ahaha",
+"hah",
+"haha",
+" lol ",
+"haha",
+"#haha_syn##haha_syn#",
+"#haha_syn##haha_syn#"
+],
+
+"sluta_syn":[
+"sluta",
+"sluta",
+"sluta",
+"sluta",
+"bara sluta",
+"bara sluta",
+"bara sluta",
+"sluta. #tidsangivelse#.",
+"bara sluta. För alltid.",
+"sluta. Bara sluta."
+],
+
+"jävla_syn":[
+"jävla",
+"j**la",
+"jävla",
+"jävla",
+"fucking"
+],
+
+"stoppa_syn":[
+"stoppa",
+"förbjud",
+"avskaffa",
+"ta bort"
+],
+
+"kasst_syn":[
+"kasst",
+"sämst",
+"dåligt",
+"onice"
+],
+
+"sämst_syn":[
+"sämst",
+"allra sämst",
+"världens sämsta",
+"värst",
+"oniceast",
+"skevast",
+"mest överskattat",
+"problematiskt"
+],
+
+"hatar_syn":[
+"hatar",
+"avskyr",
+"haatar",
+"hatar"
+],
+
+"värsta_syn":[
+"sämsta",
+"vidrigaste",
+"värsta",
+"sjukaste"
+],
+
+"samhället_syn":[
+"samhället",
+"sverige",
+"sthlm",
+"världen",
+"mänskligheten",
+"samtiden"
+],
+
+"jobbat_för_syn":[
+"har jobbat för",
+"blivit köpt av",
+"börjat jobba för"
+],
+
+"historisk_sak":[
+"#internationella-historiska-händelser#",
+"#svenska-historiska-händelser#"
+],
+
+"historisk_händelse":[
+"#internationella-historiska-händelser#",
+"#svenska-historiska-händelser#"
+],
+
+"svenska-historiska-händelser":[
+"Ottar Wendelkråkas död",
+"ansgars ankomst till Sverige",
+"erik den heliges dop",
+"nyköpings gästabud",
+"stockholms blodbad",
+"riksdagen i Västerås",
+"Dackeupproret",
+"Engelbrektsupproret",
+"kalmarunionens införande",
+"Gustav Vasa ankomst till Mora",
+"Erik XIVs död",
+"vasaskeppet sjunker",
+"slaget vid lützen",
+"kalabaliken i Bender",
+"reduktionen",
+"Karl XIIs död",
+"drottning Kristinas abdikation",
+"Adolf Fredriks semmeldöd",
+"händelserna i rapportsalen 1772",
+"skotten på maskeradbalen",
+"storskiftets införande",
+"det Laga skiftet",
+"1823 års riksdag",
+"tåget över stora bält",
+"brandskattningen av visby",
+"slaget vid lund",
+"Karl XIIs likfärd",
+"näringsfrihetens införande",
+"folkskolans införande",
+"upplopen i stockholm 1848",
+"emigrationen till amerika",
+"1809 års statskupp",
+"kautokeinoupproret",
+"kvinnlig rösträtt",
+"pansarbåtsinsamlingen",
+"borggårdstalet",
+"Krügerkraschen",
+"Per Albin dör på spårvagnen",
+"skotten i Ådalen",
+"kohandeln",
+"erlanders vits i hyland",
+"kårhusockupationen",
+"almstriden",
+"palmes vietnamtal",
+"finalen",
+"tv2 startar",
+"kungen och silvia förlovar sig",
+"abba vinner melodifestivalen",
+"kärnkraftsomröstningen",
+"norrmalmstorgsdramat",
+"Keyneaffären",
+"fuglesangs rymdpromenad",
+"folkomröstningen om totalförbud",
+"ATP-omröstningen",
+"högertrafikomläggningen",
+"1792 års kaffeförbud",
+"Anna Maria Lenngrens födelse"
+],
+
+"internationella-historiska-händelser":[
+"jesus korsfästelse",
+"kyrkomötet i Nicae",
+"romarikets fall",
+"islams födelse",
+"slaget vid Poitiers",
+"vikingarnas expeditioner",
+"attacken på Lindisfarne",
+"Karl den stores kröning",
+"Djingis Kahns erövringar",
+"Timur Lenks erövringar",
+"digerdöden",
+"reformationen",
+"defenestreringen i Prag",
+"kolonisationen av amerika",
+"ediktet i Nantes",
+"amerikanska frihetskriget",
+"franska revolutionen",
+"napoleonkriget",
+"krimkriget",
+"1871-års krig",
+"storstrejken",
+"skottet i sarajevo",
+"första världskriget",
+"ryska revolutionen",
+"andra världskriget",
+"pearl harbor",
+"stalingrad",
+"kalla kriget",
+"uppsjkutningen av sputnik",
+"månlandningen",
+"murens fall",
+"kubanska revolutionen",
+"koreakriget",
+"revolutionen i Iran",
+"fashodaincidentet",
+"suez-krisen"
+],
+
+"sak":[
+"#sak-en#",
+"#sak-ett#"
+],
+
+"en-sak":[
+"en #sak-en#",
+"ett #sak-ett#"
+],
+
+"saken":[
+"#sak-en#en",
+"#sak-ett#et"
+],
+
+"sak-en":[
+"#vardagsföremål-en#",
+"#verktyg-en#",
+"#mat-en#",
+"#djur-en#",
+"#naturföremål-en#",
+"#vätska-den#"
+],
+
+"sak-ett":[
+"#vardagsföremål-ett#",
+"#verktyg-ett#",
+"#mat-ett#",
+"#naturföremål-ett#"
+],
+
+"sak-singular":[
+"#sak-en#",
+"#sak-ett#",
+"#koncept#"
+],
+
+"sak-plural":[
+"#djur-plural#",
+"#naturföremål-plural#",
+"#vardagsföremål-plural#",
+"#människor-plural#"
+],
+
+"en-mat":[
+"en #mat-en#",
+"ett #mat-ett#"
+],
+
+"mat":[
+"#mat-en#",
+"#mat-ett#"
+],
+
+"ett-verktyg":[
+"en #verktyg-en#",
+"ett #verktyg-ett#"
+],
+
+"naturföremål":[
+"#naturföremål-en#",
+"#naturföremål-ett#"
+],
+
+"ett-koncept":[
+"en #koncept-en#",
+"ett #koncept-ett#"
+],
+
+"koncept":[
+"#koncept-en#",
+"#koncept-ett#"
+],
+
+"koncept-ett":[
+"hopp",
+"samvete",
+"syfte",
+"namn",
+"sammanhang",
+"löfte",
+"råd",
+"förtroende",
+"samhälle",
+"projekt",
+"skratt"
+],
+
+"koncept-en":[
+"ära",
+"kärlek",
+"sanning",
+"trohet",
+"tröst",
+"tro",
+"vänskap",
+"idé",
+"gemenskap",
+"teori",
+"förväntan",
+"plan",
+"ideologi",
+"framtid",
+"förhoppning",
+"tillit",
+"historia"
+],
+
+"koncept-plural":[
+"idéer",
+"sanningar",
+"tankar",
+"ideologier",
+"tröster",
+"vänskaper",
+"relationer",
+"gemenskaper",
+"planer",
+"löften"
+],
+
+"vätska":[
+"#vätska-den#",
+"#vätska-det#"
+],
+
+"mat-vätska-en":[
+"#mat-en#",
+"#vätska-den#"
+],
+
+"mat-vätska-ett":[
+"#vätska-det#",
+"#mat-ett#"
+],
+
+"mat-vätska":[
+"#mat-vätska-en#",
+"#mat-vätska-ett#"
+],
+
+"arbete-synonym-ett":[
+"arbete",
+"verk",
+"dagsverke",
+"pass",
+"möte",
+"bygge",
+"jobb",
+"slit"
+],
+
+"arbete-synonym-en":[
+"arbetsdag",
+"insats",
+"strid",
+"vakt",
+"ansträngning"
+],
+
+"lukt":[
+"skit"
+],
+
+"status-par":[
+"[pair1:far][pair2:son]",
+"[pair1:mor][pair2:dotter]",
+"[pair1:chef][pair2:slav]",
+"[pair1:kung][pair2:träl]",
+"[pair1:chef][pair2:vaktmästare]",
+"[pair1:husbonde][pair2:dräng]",
+"[pair1:ängel][pair2:djävul]"
+],
+
+"kroppsdel":[
+"#kroppsdel-en#",
+"#kroppsdel-ett#"
+],
+
+"kroppsdel-den":[
+"den #kroppsdel-en#",
+"det #kroppsdel-ett#"
+],
+
+"kroppsdel-bestämd-form":[
+"en #kroppsdel-en#",
+"ett #kroppsdel-ett#"
+],
+
+"äger-gör-har":[
+"äger",
+"har",
+"kan göra",
+"har hemma",
+"gillar",
+"ser ut som",
+"kan tillverka",
+"använda",
+"vill ge dig"
+],
+
+"kroppsdel-plural-bestämd-form":[
+"benen",
+"armarna",
+"brösten",
+"tårna",
+"fingrarna"
+],
+
+"kroppsdelen":[
+"#kroppsdel-en#en",
+"#kroppsdel-ett#et",
+"#kroppsdel-plural-bestämd-form#"
+],
+
+"lukter":[
+"skog",
+"hav",
+"mat",
+"bullar",
+"rosor",
+"sommaräng",
+"öl",
+"herrparfym",
+"deo",
+"som #svensk-kändis#",
+"parfym",
+"tvål",
+"fräscht",
+"svett",
+"bensin",
+"målarfärg",
+"kokos",
+"älskog",
+"piss",
+"människa",
+"fjäll",
+"tandkräm",
+"kaffe"
+],
+
+"vardagsföremål-en":[
+"pinne",
+"käpp",
+"väst",
+"sko",
+"känga",
+"gryta",
+"strumpa",
+"bok",
+"sedel",
+"snus",
+"visa",
+"kopp",
+"vagn",
+"hatt",
+"handske",
+"kjol",
+"vän",
+"kompis",
+"kruka",
+"lampa",
+"åra",
+"båt",
+"eka",
+"vagn",
+"hink",
+"dörr",
+"brasa",
+"spis",
+"tallrik",
+"säng",
+"tavla",
+"stubbe",
+"bänk",
+"vägg",
+"lampa",
+"telefon",
+"klocka",
+"frisyr",
+"stekpanna"
+],
+
+"social_media":[
+"twitter",
+"tinder",
+"instagram",
+"snapchat",
+"linkedin",
+"insta",
+"fb",
+"snap"
+],
+
+"twitter_subkultur":[
+"lärartwitter",
+"svpol",
+"vänstertwitter",
+"stofiltwitter",
+"hockeytwitter",
+"barntwitter"
+],
+
+"vardagsföremål-ett":[
+"bröd",
+"hus",
+"bolag",
+"äktenskap",
+"barn",
+"skepp",
+"rivjärn",
+"fönster",
+"glas",
+"bord",
+"fönster",
+"vedträ"
+],
+
+"ett-vardagsföremål":[
+"ett #vardagsföremål-ett#",
+"en #vardagsföremål-en#"
+],
+
+"vardagsföremål-plural":[
+"bestick",
+"brev",
+"bröd",
+"bröder",
+"burkar",
+"byxor",
+"böcker",
+"cyklar",
+"flugor",
+"fläktar",
+"fönster",
+"glas",
+"handskar",
+"hus",
+"hörn",
+"kläder",
+"krukor",
+"lådor",
+"pallar",
+"pannor",
+"rivjärn",
+"skepp",
+"skor",
+"skålar",
+"snusdosor",
+"spadar",
+"spisar",
+"stolar",
+"systrar",
+"tallrikar",
+"vagnar",
+"vedträn",
+"verktyg",
+"viner",
+"vänner",
+"yxor",
+"äktenskap",
+"askar",
+"paket",
+"kartonger",
+"papper",
+"sladdar",
+"trådar",
+"snören",
+"räkningar",
+"fönster",
+"tärningar",
+"knivar",
+"dammtussar"
+],
+
+"länder_replaceall":[
+"Usa",
+"Kanada",
+"Mexiko",
+"Kuba",
+"Haiti",
+"Dominikanska Republiken",
+"Nicaragua",
+"Costa Rica",
+"Colombia",
+"Brasilien",
+"Chile",
+"Argentina",
+"Norge",
+"Danmark",
+"Sverige",
+"Tyskland",
+"Finland",
+"Storbritannien",
+"Frankrike",
+"Nederländerna",
+"Italien",
+"Spanien",
+"Portugal",
+"Andorra",
+"Belgien",
+"Irland",
+"Schweiz",
+"Liechtenstein",
+"Österrike",
+"Polen",
+"Tjeckien",
+"Slovakien",
+"Malta",
+"Pakistan",
+"Palestina",
+"Iran",
+"Irak",
+"Ukraina",
+"Vitryssland",
+"Tibet",
+"Mongoliet"
+],
+
+"mat-en":[
+"gröt",
+"öl",
+"korv",
+"palt",
+"skinka",
+"gratäng",
+"paj",
+"stuvning",
+"soppa",
+"potatis",
+"buffé",
+"renskav",
+"biff"
+],
+
+"mat-ett":[
+"vin",
+"brännvin",
+"bröd",
+"bär",
+"hallon",
+"blåbär",
+"rågbröd",
+"rödvin",
+"fikon",
+"fläsk",
+"kex",
+"laxskinn",
+"grishuvud",
+"hjortron",
+"smör",
+"julbord"
+],
+
+"verktyg-en":[
+"spade",
+"lie",
+"yxa",
+"käpp",
+"hammare",
+"tröska",
+"såg",
+"hink",
+"bössa",
+"kvast",
+"kniv",
+"trasa",
+"hyvel",
+"hacka",
+"borste",
+"svarv",
+"gryta"
+],
+
+"verktyg-ett":[
+"armborst",
+"vattenpass",
+"skjutmått",
+"barkjärn",
+"lod",
+"rep",
+"paraply",
+"fordon",
+"vapen",
+"måttband",
+"system",
+"instrument",
+"lås",
+"tyg",
+"spett",
+"svärd",
+"järn",
+"tråg",
+"verktyg"
+],
+
+"naturföremål-en":[
+"pinne",
+"sten",
+"kotte",
+"bäck",
+"å",
+"sjö",
+"flod"
+],
+
+"naturföremål-ett":[
+"berg",
+"hav",
+"träd",
+"stup",
+"träsk"
+],
+
+"naturhinder-bestämd-form":[
+"stenen",
+"berget",
+"stupet",
+"träsket",
+"ravinen",
+"älven",
+"skogen",
+"dungen",
+"bäcken",
+"ån",
+"sjön",
+"floden",
+"havet",
+"fjället",
+"kullen",
+"ängen",
+"fjorden",
+"dalen"
+],
+
+"naturföremål-plural":[
+"pinnar",
+"stenar",
+"bäckar",
+"kottar",
+"barr",
+"moln",
+"bär",
+"frukter",
+"strån",
+"öar"
+],
+
+"vätska-den":[
+"mjölk",
+"saft",
+"punsch",
+"svagdricka",
+"whisky",
+"drink",
+"grogg",
+"öl",
+"juice",
+"vinäger",
+"konjak",
+"olja"
+],
+
+"vätska-det":[
+"kaffe",
+"kokaffe",
+"vin",
+"brännvin",
+"rosévin",
+"röda vin",
+"burgundvin",
+"frukostte",
+"te",
+"vatten"
+],
+
+"värderat-material":[
+"silver",
+"guld",
+"skit",
+"luft",
+"brons",
+"bajs",
+"diamant"
+],
+
+"sjukdom":[
+"malaria",
+"alkoholförgiftning",
+"förtvining",
+"andnöd",
+"andtäppa",
+"arkebuserad",
+"arsenikförgiftning",
+"asiatisk",
+"kolera",
+"augustifeber",
+"avig",
+"avtyning",
+"barnemasel",
+"barnförlamning",
+"barnkolera",
+"barnkoppor",
+"barnkvävning",
+"barselsäng",
+"bataviafeber",
+"benbrott",
+"benetter",
+"benröta",
+"bensår",
+"benuppmjukning",
+"bindsel",
+"binnikemask",
+"bleksot",
+"blessyr",
+"blindtarmsinflammation",
+"blindtarmsinflammation",
+"bloddissolution",
+"blodförgiftning",
+"blodgång",
+"blodhopning",
+"blodhosta",
+"blodkräkning",
+"blodkärlstillstängning",
+"blodpink",
+"blodsalivering",
+"blodslag",
+"blodslag",
+"blodsot",
+"blodspottning",
+"blodsprång",
+"blodstockning",
+"blodstyng",
+"blodstörtning",
+"blodträngning",
+"blodupplösning",
+"blyförgiftning",
+"blåskatarr",
+"blåskärlsinflammation",
+"blåsot",
+"borttagen",
+"borttrånad",
+"brand",
+"brand",
+"brand",
+"brandböld",
+"Brights njursjukdom",
+"bristning",
+"bronkit",
+"bråck",
+"brännsjuka",
+"brännskada",
+"brännvinsraseri",
+"bröstböld",
+"bröstcancer",
+"bröstfeber",
+"bröstförträngning",
+"brösthinneinflammation",
+"bröstinflammation",
+"bröstkatarr",
+"bröstkramp",
+"bröstkvav",
+"bröstsjukdom",
+"bröstsot",
+"bröststyng",
+"bröstvattusot",
+"bukhinneinflammation",
+"bukhinneinflammation",
+"bukrev",
+"bukvattusot",
+"bältros",
+"bältslag",
+"colchimförgiftning",
+"coloqvintförgiftning",
+"cyankaliumförgiftning",
+"danssjuka",
+"dementia",
+"paralytica",
+"difeber",
+"difteri",
+"dragsjuka",
+"dragsjuka",
+"dragsjuka",
+"drunkning",
+"durklopp",
+"dåning",
+"dödfödd",
+"efterbörd",
+"elefantsjukan",
+"emfysem",
+"engelska sjukan",
+"epidemisk",
+"kolera",
+"etter",
+"fallandesot",
+"falsk",
+"krupp",
+"fetthjärta",
+"fettlever",
+"fibrös",
+"livmoderpolyp",
+"fistel",
+"flen",
+"fluss",
+"flussfeber",
+"flussfeber",
+"flusshosta",
+"flytböld",
+"fläckfeber",
+"fläckfeber",
+"fosforförgiftning",
+"fosterfördrivning",
+"fransosen",
+"frisel",
+"frossa",
+"frossälta",
+"frätsår",
+"fulsår",
+"furunkel",
+"fylleri",
+"fältsjuka",
+"förbening",
+"föreliggande",
+"moderkaka",
+"förlamning",
+"förlossningskramp",
+"förruttnelse",
+"förstoppning",
+"förstoppning",
+"förstorad hjärna",
+"förstorat hjärta",
+"förstorat hjärta",
+"förtidig nedkomst",
+"förträngning",
+"förträngning",
+"förträngning av matstrupen",
+"förtvining",
+"galenskap",
+"gallfeber",
+"gallfeber",
+"gallsten",
+"galopperande lungsot",
+"gastrisk feber",
+"gastrisk flussfeber",
+"gastrisk slemfeber",
+"gikt",
+"grossessfeber",
+"grovtarmsinflammation",
+"gul lever",
+"gul tvinsot",
+"gula febern",
+"gyllenåder",
+"halsfluss",
+"harläpp med kluven gom",
+"hastig sjukdom hektik",
+"hektisk feber",
+"helsot",
+"het svulst",
+"hetsig feber",
+"hetsig sjukdom hjärnbråck",
+"hjärnfeber",
+"häftig sjukdom",
+"hämmad menstruation",
+"hävelse",
+"höftinflammation",
+"höftledssjukdom",
+"höstfeber",
+"höstfluss",
+"infantil paralysi",
+"inhemsk kolera",
+"inklämt bråck",
+"insot",
+"inspärrat bråck",
+"interkostal neuralgi",
+"intermittent feber",
+"kallbrand",
+"kallfeber",
+"karbolsyreförgiftning",
+"karbunkel",
+"katalepsi",
+"katarr",
+"katarral",
+"feber",
+"kikhosta",
+"kikhosta",
+"klimatfeber",
+"kolerin",
+"kolosförgiftning",
+"koloxidförgiftning",
+"kolsyreförgiftning",
+"kongestion",
+"kontusion",
+"konvulsioner",
+"krampdans",
+"krupp",
+"kruppös",
+"kräfta",
+"kustfeber",
+"kvävning",
+"lappskott",
+"led- och torrvärk",
+"ledgångsinflammation",
+"ledgångsreumatism",
+"leveratrofi",
+"leverinflammation",
+"lienteri",
+"liggsår",
+"livmoderblödning",
+"livmodersbristning",
+"livmoderscysta",
+"livmodersinflammation",
+"livmodersinflammation",
+"ljumskbråck",
+"luft i lungsäcken",
+"luftrörskatarr",
+"luftrörskatarr",
+"lungbrand",
+"lungemfysem",
+"lungförtätning",
+"lunghinneinflammation",
+"lunghosta",
+"lunginflammation",
+"lungkatarr",
+"lungrörsinflammation",
+"lungröta",
+"lungsiktighet",
+"lungskrumpning",
+"lungsot",
+"lussjuka",
+"lutförgiftning",
+"lymfkärlsinflammation",
+"långsot",
+"löst liv",
+"mag- och  tarminflammation",
+"magflen",
+"magkatarr",
+"magrev",
+"magsjukdom",
+"magsyra",
+"magsår",
+"magveset",
+"marasm",
+"massel",
+"matsmältningsrubbning",
+"medvetslöshet",
+"melankoli",
+"mercuriumförgiftning",
+"mjältbrand",
+"mjältbrandskarbunkel",
+"mjältinflammation",
+"mjältsjuka",
+"mjölkkastning",
+"moderfall",
+"moderkvav",
+"moderpassion",
+"morbo",
+"gallico",
+"morfinförgiftning",
+"mul- och klövsjukan",
+"munläsa",
+"människokoppor",
+"mässling",
+"naturliga",
+"koppor",
+"nedstämdhet",
+"nervfeber",
+"nervfeber",
+"nervfrossa",
+"njurinflammation",
+"njursten",
+"nyföddhetskramp",
+"näsblod",
+"nässelfeber",
+"barnsbörd",
+"lungutvidgning",
+"omväxlande",
+"feber",
+"ondsår",
+"osot",
+"perforerande",
+"magsår",
+"pleuresi",
+"podager",
+"psoasinflammation",
+"puerperal",
+"infektion",
+"puerperal",
+"pulsåderbråck",
+"pulsåderinflammation",
+"pulsådertilltäppning",
+"pungbråck",
+"påssjuka",
+"radesyge",
+"raseri",
+"rosfeber",
+"ryggkotsinflammation",
+"ryggmärgsbråck",
+"ryggmärgsinflammation",
+"ryska snuvan",
+"röd mässling",
+"röda friselen",
+"röda hund",
+"rödsjuka",
+"rödsot",
+"röta",
+"rötaktig",
+"nervfeber",
+"rötböld",
+"rötfeber",
+"rötsår",
+"saltfluss",
+"scharlakansfeber",
+"sinnesslöhet",
+"själssvaghet",
+"självspillning",
+"skirr",
+"skott- och sprängskada",
+"skribbel",
+"skrofler",
+"skrumplever",
+"skärsår",
+"skärven",
+"skörbjugg",
+"slagfluss",
+"slagkatarr",
+"slemstockning i lungorna",
+"småkoppor",
+"sockersjuka",
+"soporös",
+"frossa",
+"sot",
+"spanska sjukan",
+"spetälska",
+"spondylart",
+"tuberkulos",
+"sprinkel",
+"stelkramp",
+"stenkolosförgiftning",
+"stenkoppor",
+"stenkräfta",
+"stenlidande",
+"stickfluss",
+"stormässling",
+"struma",
+"strupkatarr",
+"strypning",
+"strypsjuka",
+"strypsjuka",
+"stötskador",
+"sura ben",
+"svaghet",
+"svaghetstillstånd",
+"svagsinne",
+"svampförgiftning",
+"koppor",
+"svartfeber",
+"svavelsyreförgiftning",
+"svinkoppor",
+"svinsjuka",
+"svinsot",
+"svulst",
+"svårmodighet",
+"syfilis",
+"syfilis",
+"syfilis i hjärnan",
+"sänkningsabcess",
+"sänkningshyperemi",
+"sömnsjuka",
+"sömnslag",
+"tandfeber",
+"tandslag",
+"tarmblödning",
+"tarmbråck",
+"tarmhinder",
+"tarminflammation",
+"tarmlopp",
+"tarmsår",
+"tarmtyfus",
+"tarmvred",
+"trångt bröst",
+"trånsjuka",
+"trösk",
+"tuberkulos",
+"tungsinne",
+"tvinsot",
+"tyfoidfeber",
+"tyfus",
+"tärfeber",
+"tärsot",
+"upprördhet",
+"uppsalafeber",
+"uppstigelse",
+"urinblåsekatarr",
+"urinförgiftning",
+"urinstämma",
+"ursinnighet",
+"utmärgling",
+"utslag",
+"utslätt",
+"utsot",
+"vandrande ros",
+"vanrykte",
+"vansinne",
+"vantrevnad",
+"var",
+"varfeber",
+"varinflammation",
+"vattenbråck",
+"vattenförgiftning",
+"vattenkoppor",
+"vattenkräfta",
+"vattenstämma",
+"vattentäppa",
+"vattunöd",
+"vattuskräck",
+"vattusot",
+"vattusot",
+"ventrikelinflammation",
+"Werlhofs blödarsjuka",
+"Verlhofs sjukdom",
+"vit fluss",
+"vitblodsjukdom",
+"vitsot",
+"våda",
+"vårfeber",
+"väderbrök",
+"väderkolik",
+"vädersot",
+"vävnadsförhårdnad",
+"växtsjukdom",
+"åderförkalkning",
+"åderförkalkning",
+"ålderdomdsjukdom",
+"ålderdomssvaghet",
+"äggledarinflammation",
+"äggvitesjukdom",
+"älta",
+"ändtarmsinflammation",
+"ärftlig syfilis",
+"öronsprång",
+"örspottskörtelinflammation"
+],
+
+"siffra":[
+"en",
+"två",
+"tre",
+"fyra",
+"fem",
+"sex",
+"sju",
+"åtta",
+"nio",
+"tio",
+"elva",
+"tolv"
+],
+
+"människor-plural":[
+"poliser",
+"jungfrur",
+"lärare",
+"prostar",
+"sjömän",
+"drinkare",
+"oduglingar",
+"ungar",
+"fruntimmer",
+"manfolk",
+"karlar",
+"drängar",
+"pigor",
+"köpmän",
+"kockar",
+"flickor",
+"matroser",
+"bärare",
+"hjälpare"
+],
+
+"invektiv":[
+"röv#person-typ#",
+"#djur-en#fejs",
+"#material#huvud",
+"#material#skalle"
+],
+
+"bra-namn":[
+"hjälte",
+"ljushuvud",
+"expert",
+"hjältinna",
+"hjälpare",
+"fixare",
+"räddare",
+"frälsare"
+],
+
+"idéer":[
+"idéer",
+"nyheter",
+"uppfinningar",
+"påhitt",
+"åsikter",
+"teorier"
+],
+
+"färdas":[
+"färdas",
+"reser",
+"förflyttas"
+],
+
+"man-kvinna":[
+"man",
+"kvinna",
+"tjej",
+"pojke",
+"kille",
+"flicka",
+"grabb",
+"tös",
+"unge",
+"far",
+"son",
+"dotter",
+"mor",
+"bror",
+"syster",
+"fästman",
+"brud",
+"farbror",
+"tant",
+"piga",
+"dräng"
+],
+
+"material":[
+"päls",
+"linne",
+"ull",
+"silke",
+"polyester",
+"plysch",
+"kamelhår",
+"mocka",
+"flanell",
+"manchester",
+"nylon",
+"läder",
+"tweed",
+"velour",
+"denim",
+"guld",
+"silver",
+"diamant",
+"järn",
+"trä",
+"aluminium",
+"björk",
+"ek",
+"pärlemor",
+"zink",
+"tenn"
+],
+
+"gud-synonym":[
+"Gud",
+"Herre",
+"Krist",
+"Jesus",
+"Fader",
+"Vår fader"
+],
+
+"person-typ":[
+"pojke",
+"dam",
+"månglare",
+"greve",
+"flicka",
+"student",
+"speleman",
+"seglare",
+"skogshuggare",
+"skald",
+"arbetare",
+"kämpe",
+"romantiker",
+"snobb",
+"mormor",
+"tös",
+"agitator",
+"filosof",
+"socialist",
+"fosterlandsvän",
+"lärare",
+"rövare",
+"sjörövare",
+"kvinnosakskvinna",
+"karlakarl",
+"syndare",
+"syster",
+"fader",
+"mor",
+"lantman",
+"fån",
+"sorgfågel",
+"drickare",
+"musikant",
+"spoling",
+"bohem",
+"artist",
+"lögnare",
+"bedragare",
+"husbonde",
+"husmor",
+"kokerska",
+"soldat",
+"gubbe",
+"bandit",
+"drängstugekarl",
+"präst",
+"prinsessa",
+"snickare",
+"åldring",
+"roddare",
+"kusk",
+"spanare",
+"flicka",
+"moster",
+"dandy",
+"slarver",
+"fästman",
+"stadsbo",
+"matros",
+"löjtnant",
+"pastor",
+"predikant",
+"badare",
+"bandit",
+"olycksfågel",
+"sopran",
+"diktare",
+"pianist",
+"far",
+"dräng",
+"gitarrist",
+"resare",
+"bonde",
+"direktör",
+"kuf",
+"uppviglare",
+"spion",
+"grabb",
+"kvinna",
+"man",
+"doktor",
+"betjänt",
+"älskare",
+"älskarinna",
+"modell",
+"brud",
+"frände",
+"fru",
+"madame",
+"svärdsman",
+"hirdman",
+"sportsman",
+"advokat",
+"unge",
+"flanör",
+"posör",
+"pamp",
+"expert",
+"djävel",
+"gosse",
+"kaféspoling",
+"arkitekt",
+"kofösare",
+"fiskare",
+"besserwisser",
+"professor",
+"gymnasist",
+"pojksploing",
+"spelare"
+],
+
+"grupp":[
+"dumma",
+"rika",
+"fattiga",
+"fula",
+"snygga",
+"smarta",
+"gamla",
+"unga",
+"töntar"
+],
+
+"bilmodell":[
+"volvo",
+"bmw",
+"opel",
+"citroën",
+"renault",
+"saab",
+"audi",
+"mustang",
+"skoda",
+"folka",
+"lada",
+"mini",
+"fiat",
+"lambhorghini",
+"ferrari",
+"cadillac",
+"chrysler",
+"ford",
+"toyota",
+"nissan",
+"mazda",
+"range rover",
+"tesla",
+"kia",
+"hyundai"
+],
+
+"kalas":[
+"fest",
+"partaj",
+"kalas",
+"party",
+"bjudning",
+"skiva"
+],
+
+"år":[
+"1965",
+"1966",
+"1967",
+"1968",
+"1969",
+"1970",
+"1971",
+"1972",
+"1973",
+"1974",
+"1975",
+"1976",
+"1977",
+"1978",
+"1979",
+"1980",
+"1981",
+"1982",
+"1983",
+"1984",
+"1985",
+"1986",
+"1987",
+"1988",
+"1989",
+"1990",
+"1991",
+"1992",
+"1993",
+"1994",
+"1995",
+"1996",
+"1997",
+"1998",
+"1999",
+"2000",
+"2001",
+"2002",
+"2003",
+"2004",
+"2005",
+"2006",
+"2007",
+"2008",
+"2009",
+"2010",
+"2011",
+"2012",
+"2013",
+"2014",
+"2015",
+"2016",
+"2017",
+"2018"
+],
+
+"drog":[
+"LSD",
+"speed",
+"meth",
+"kokain",
+"folköl",
+"ecstacy",
+"rödvin",
+"tequila",
+"lustgas",
+"svart kaffe",
+"vodka",
+"ghb"
+],
+
+"kroppsdel-en":[
+"hand",
+"mun",
+"nos",
+"mage",
+"päls",
+"kind",
+"svans",
+"rygg",
+"axel",
+"arm",
+"näbb"
+],
+
+"kroppsdel-ett":[
+"ben",
+"huvud",
+"öga",
+"öra",
+"bröst"
+],
+
+"klibb":[
+"tran",
+"tjära",
+"linolja",
+"smör",
+"petroleum",
+"fårtalg",
+"koda"
+],
+
+"veckodag":[
+"måndag",
+"tisdag",
+"onsdag",
+"torsdag",
+"fredag",
+"lördag",
+"söndag"
+],
+
+"1_in_40":[
+"#v#",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+""
+],
+
+"origin":[
+"[p:#palt_syn#]#tweet.capitalize# [v:\\#palt]#1_in_10# [v:\\#svpol]#1_in_40#"
+],
+
+"tweet":[
+"#sugen_syn# #p#",
+"#många_palt#[v:#många_uttropstecken#]#1_in_5#",
+"#ni_alla_syn# #borde_syn# #gilla_syn# #p#",
+"#haha_syn# #antipalt#",
+"#stoppa_syn# #antipalt#",
+"#antipalt##kolon_syn# #dålig#",
+"#antipalt# #borde_syn# #få_lida_syn#",
+"#vill_ska_syn# #inte_syn# äta #antipalt# som nåt slags djur",
+"tacka #p# för #svenska-historiska-händelser#",
+"#vem_vill_ha# #åtråvärd# när det finns #p#",
+"paltkoma",
+"#p# > #åtråvärd#",
+"#antipalt# smakar #äckligt#",
+"#gillar# #p#",
+"#p# #är_syn# #jävla_syn# #bra#",
+"#ordspråk#",
+"#palt_syn#"
+],
+
+"1_in_5":[
+"#v#",
+"",
+"",
+"",
+""
+],
+
+"ordspråk":[
+"#p# är alltid #p#",
+"#p# before #hoes#",
+"lycka är att ha #sak# och #palt_syn#"
+],
+
+"hoes":[
+"hoes",
+"fries"
+],
+
+"bra":[
+"#bra_syn#",
+"gott"
+],
+
+"gillar":[
+"#kär_i#",
+"#litar_på_syn# #preposition#"
+],
+
+"vem_vill_ha":[
+"orka",
+"palla",
+"vem vill ha",
+"varför välja"
+],
+
+"äckligt":[
+"#klibb#",
+"#värderat-material#"
+],
+
+"åtråvärd":[
+"#drog#",
+"#mat-en#",
+"#mat-ett#",
+"#naturföremål-plural#",
+"#vätska-den#"
+],
+
+"dålig":[
+"#vidrigt_syn#",
+"#sämst_syn#",
+"#kasst_syn#"
+],
+
+"antipalt":[
+"kroppkaka",
+"kroppkaka",
+"kryddpeppar"
+],
+
+"palt_syn":[
+"palt",
+"palt",
+"palt",
+"palt",
+"palt",
+"palt",
+"palt",
+"Palt",
+"pitepalt",
+"#paaalt#",
+"blodpalt",
+"stekpalt",
+"gråpalt",
+"paltkoma",
+"p a l t",
+"P A L T",
+"\\#palt"
+],
+
+"paaalt":[
+"#_P##_A##_L##_T#"
+],
+
+"_P":[
+"P",
+"PP",
+"p"
+],
+
+"_A":[
+"A",
+"A",
+"AA",
+"#_A##_A#",
+"a",
+"aa"
+],
+
+"_L":[
+"L",
+"l",
+"LL",
+"#_L##_L#"
+],
+
+"_T":[
+"T",
+"t",
+"#_T##_T#"
+],
+
+"många_palt":[
+"#p# #palt_syn#",
+"#många_palt# #p#",
+"#många_palt# #p#"
+],
+
+"sugen_syn":[
+"sugen på",
+"längtar efter",
+"vill ha",
+"#mmmmm#",
+"nothin like",
+"inget slår",
+"#funderar_på_syn#",
+"#minns_syn#",
+"#pratar_syn# om",
+"inne:",
+"#vill_ska_syn# #berätta_syn# om"
+],
+
+"mmmmm":[
+"mm",
+"m",
+"#mmmmm#m",
+"#mmmmm#mm",
+"#mmmmm#mmm"
+]
+
+}

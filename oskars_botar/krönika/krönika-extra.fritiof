@@ -1,0 +1,361 @@
+§kunglighet
+#kunglig_titel_man# #kungligt_förnamn_man# av #kungadöme#
+#kunglig_titel_man# #kungligt_förnamn_man# av #kungadöme#
+#kunglig_titel_man# #kungligt_förnamn_man#-#kungligt_förnamn_man# av #kungadöme#
+#kunglig_titel_kvinna# #kungligt_förnamn_kvinna# av #kungadöme#
+#kunglig_titel_kvinna# #kungligt_förnamn_kvinna# av #kungadöme#
+
+§kungligt_förnamn_man
+Otto
+Karl
+Vilhelm
+Franz
+Oscar
+Philip
+Richard
+Albert
+William
+Kristian
+
+§kungligt_förnamn_kvinna
+Victoria
+Estelle
+Elisabeth
+Alixa
+Alice
+Francesca
+Margareta
+Katarina
+Ann
+
+§kunglig_titel_man
+Kronprins
+Hertig
+Kung
+Kejsar
+Storfurst
+
+§kunglig_titel_kvinna
+Prinsessan
+Drottning
+Kronprinsessan
+Hertiginnan
+
+§kungadöme
+Ryssland
+Preussen
+Holland
+Hesse
+Coburg
+Österrike
+Bourbon
+England
+Wales
+Aragonien
+Portugal
+Danmark-Norge
+Habsburg
+Finland
+Rumänien
+Bulgarien
+Grekland
+Spanien
+Bayern
+Sachsen
+Würtemberg
+Baden
+Mecklenburg
+Lichtenstein
+Toscana
+
+§uppfinning
+#mekanik_sak#
+#plagg-en#
+#apparat#
+#fordon#
+
+§gör_sak_med
+gifter sig med
+får barn med
+låter mörda
+blir dödad av
+
+§kunglig_handling
+abdikerar
+inleder sin regering
+avrättas
+avskaffar parlamentet
+gifter sig med #kunglighet#
+adlar #historisk-person#
+föds
+dör i #sjukdom#
+blir sjuk i #sjukdom#
+avlider
+går i exil i #historisk_ort#
+förbjuder #sak#
+
+§handling
+blir #attackerad_syn# av en #djur-en#
+dör av förgiftad #stofil-maträtt#
+blir galen
+dödas av #trupper#
+
+§attackerad_syn
+attackerad
+dödad
+störd av
+förförd av
+trakasserad
+
+§stad_handling
+belägras av #trupper#
+grundas
+drabbas av eldsvåda
+drabbas av jordbävning
+ockuperas av #historiskt_land#
+befrias av #trupper#
+
+§trupper
+#nationalitet# #styrkor#
+#historiskt_land#s #styrkor#
+#krigare#s #styrkor#
+#upprorstyrka#
+
+§historisk_ort
+#svenska-orter-i#
+#kungadöme#
+#land#
+#internationell_stad#
+#historisk_ort#
+
+§historiskt_land
+Böhmen
+Istrien
+Genua
+Venedig
+Ottomanska riket
+Mughal-imperiet
+Gran-Colombia
+Skottland
+Irland
+Livland
+Piemonte
+Burgund
+Aragonien
+Katalonien
+Mongoliska riket
+Syrien
+Libanon
+Ayyubid sultanatet
+Wales
+Navarra
+Florida
+Ostindiska kompaniet
+Japan
+Java
+Provence
+Wallonien
+Friesland
+Pommern
+
+§gör_land_grej_med
+invaderar
+sluter fred med
+sluter frihandelsavtal med
+annekterar
+sluter personalunion under #kunglighet# med
+
+§gör_sak_med_organisation
+tar över
+lägger ned
+bojkottar
+blir chef på
+grundar
+lämnar
+
+§regering
+#land#s regering
+#kunglighet#
+#politiker#
+#historiskt_land#
+
+§gör_regeringsgrej
+förbjuder #sak#
+inför jakt på #djur-plural#
+låter bygga #en_byggnad# av #material#
+förstör #en_byggnad# i #internationell_stad#
+kriminaliserar #drog#
+inför #social_reform#
+avskaffar #social_reform#
+inför stats#politisk_position#
+
+§social_reform
+allmän rösträtt
+kvinnlig rösträtt
+tvåkammarriksdag
+allmän sjukvård
+livegenskap
+värnplikt
+alkoholmonopol
+ståndsriksdag
+slaveri
+
+§en_byggnad
+ett slott
+en katedral
+en hamn
+en borg
+en mur
+en hel stad
+ett torn
+ett operahus
+
+§politisk_byggnad
+fängelset
+palatset
+borgen
+rådhuset
+regeringshögkvarteret
+#land#s ambassad
+
+§organisation_gör_grej
+#föreningar# börjar företräda #politisk_position#
+#idrottsföreningar# spelar #siffertecken# - #siffertecken# mot #idrottsföreningar#
+#föreningar# splittras
+#företag# lanserar världens första #uppfinning#
+#företag# köper #företag#
+#företag# bygger #en_byggnad# i #ort-i#
+
+§politisk_position
+#filosofiska_ismer#
+#filosofiska_ismer#
+#filosofiska_ismer#-#filosofiska_ismer#
+
+§revolution
+#upprorstyrka# tar regeringsmakten i #historiskt_land#
+#upprorstyrka# #gör_regeringsgrej# i #historisk_ort#
+#upprorstyrka# i #historisk_ort# kräver #social_reform#
+#upprorstyrka# stormar #politisk_byggnad# i #internationell_stad#
+#folklig_oro# i #historisk_ort# efter #nationell_kris#.
+#folklig_oro# i #ort#
+#upprorstyrka# skapar #folklig_oro# i #ort#
+
+§upprorstyrka
+#upprorstyp_plural# #styrkor#
+
+§oro_resultat
+1/2{#siffertecken#}#siffertecken# fängslas
+1/2{#siffertecken#}#siffertecken# dödas
+
+§upprorstyp_plural
+nationalistiska
+marxistiska
+religliösa
+populistiska
+revolutionära
+patriotiska
+reaktionära
+regimtrogna
+regimkritiska
+anarkistiska
+feministiska
+folkliga
+#föreningar#-trogna
+
+§styrkor
+styrkor
+trupper
+massor
+agenter
+arméer
+förband
+demonstranter
+folkmassor
+organisationer
+upprorsmakare
+konspiratörer
+#djur-plural#
+#samhällsgrupp-plural#
+
+§folklig_oro
+folklig oro
+upplopp
+kravaller
+handgemäng
+kalabalik
+uppror
+stor förstörelse
+kaos
+
+§nationell_kris
+brist på #livsmedel_syn#
+terrorattentat i #politisk_byggnad#
+#land#s invasion
+#historisk-person#s plötsliga död
+börskrasch
+svältkatastrof
+regeringskris
+statskupp
+tsunami
+
+§livsmedel_syn
+mat
+livsmedel
+spannmål
+#drog#
+#mat-format#
+#mat-ingrediens#
+#dryck#
+
+§samhällsgrupp-plural
+killar
+snubbar
+studenter
+tjejer
+vuxna
+barn
+pensionärer
+gamlingar
+borgare
+arbetare
+sossar
+nördar
+töntar
+småbarn
+tonåringar
+föreninglivssmänniskor
+lantisar
+stadsbor
+idioter
+män
+kvinnor
+tanter
+gubbar
+gummor
+farbröder
+akademiker
+tjejer
+tjänstemän
+medelklassmänniskor
+överklassmänniskor
+
+§handelsmän
+#nationalitet# #samhällsgrupp-plural#
+#nationalitet# handelsmän
+#historiskt_land#
+#företag#
+
+§handelsvara
+#material#
+#sak-plural#
+#material#
+#sak-plural#
+#mat-sak#
+#dryck#
+#drog#
+
+§handla_med_syn
+tillverka[handels_preposition:åt]
+sälja[handels_preposition:till]
+sälja[handels_preposition:till]
+handla med[handels_preposition:med]

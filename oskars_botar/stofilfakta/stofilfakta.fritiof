@@ -1,0 +1,65 @@
+//Created by fritiof-app
+-dictionary ~/Egna Dokument/Programmering/Fritiof-Ordlistor
+-insert stofila-namn
+-insert stofila-saker
+-insert orter
+-insert organisationer
+-insert föremål
+
+§origin
+Visste du att #stofilfakta#?
+
+§stofilfakta
+#fakta_om_figur#
+#fakta_om_land#
+#fakta_om_historia#
+
+§fakta_om_figur
+#stofil_profil# var #stofil_position#
+#stofil_profil#s stora intresse var #stofilt_intresse#
+#stofil_figur# var #stofil_profil#s #könsneutralförbindelse#
+#stofil_profil# #uträttade_livsprojekt# #i-ort#
+
+
+§uträttade_livsprojekt
+gifte sig
+föddes
+gjorde militärtjänst
+läste #stofilt_akademiskt_ämne#
+
+§stofil_profil
+#stofil_person#
+#stofil_person#
+#stofil_person#
+#stofil_person#s #släkting#
+
+§stofil_figur
+#mat-yrke# #stofilt-namn#
+
+§stofil_position
+#föreningsposition# i #stofilt_sällskap#
+#akademiskposition# i #stofilt_akademiskt_ämne##vid_lärosäte#
+
+§sf-sällskap
+#föreningar#
+#stofilt_sällskap#
+
+§vid_lärosäte
+
+ i #lärosätesort#
+ vid #lärosätesort#s universitet
+
+§lärosätesort
+Lund
+Uppsala
+Åbo
+
+§könsneutralförbindelse
+förebild
+ärkefiende
+släkting
+syskon
+största sponsor
+största fan
+klasskamrat
+hemliga älskare

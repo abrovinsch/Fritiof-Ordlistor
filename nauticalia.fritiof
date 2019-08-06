@@ -1,0 +1,34 @@
+§skeppstyp
+bark
+brigg
+fullriggare
+galeas
+galleon
+örlogsskepp
+linjeskepp
+skonare
+ostindiefarare
+
+§skeppstypen
+barken
+briggen
+fullriggaren
+galeasen
+galleonen
+örlogsskeppet
+linjeskeppet
+skonaren
+ostindiefararen
+
+§skeppsnamn
+#kvinnligt-förnamn.capitalize#
+#koncept-en#
+#historisk_ort#
+'#kunglighet#'
+
+§skepp-händelse
+förliser
+går på grund
+blir anfallen av pirater
+försvinner spårlöst
+sjösätts

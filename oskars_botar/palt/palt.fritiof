@@ -1,0 +1,140 @@
+-dictionary ~/Egna Dokument/Programmering/Fritiof-Ordlistor
+-insert oskars_botar/gnellbot5000/gnäll-synonymer
+-insert historia
+-insert saker
+
+§origin
+[p:#palt_syn#]#tweet.capitalize# 1/10{\\#palt} 1/40{\\#svpol}
+
+§tweet
+#sugen_syn# #p#
+#många_palt#1/5{#många_uttropstecken#}
+#ni_alla_syn# #borde_syn# #gilla_syn# #p#
+#haha_syn# #antipalt#
+#stoppa_syn# #antipalt#
+#antipalt##kolon_syn# #dålig#
+#antipalt# #borde_syn# #få_lida_syn#
+#vill_ska_syn# #inte_syn# äta #antipalt# som nåt slags djur
+tacka #p# för #svenska-historiska-händelser#
+#vem_vill_ha# #åtråvärd# när det finns #p#
+paltkoma
+#p# > #åtråvärd#
+#antipalt# smakar #äckligt#
+#gillar# #p#
+#p# #är_syn# #jävla_syn# #bra#
+#ordspråk#
+#palt_syn#
+
+§ordspråk
+#p# är alltid #p#
+#p# before #hoes#
+lycka är att ha #sak# och #palt_syn#
+
+§hoes
+hoes
+fries
+
+§bra
+#bra_syn#
+gott
+
+§gillar
+#kär_i#
+#litar_på_syn# #preposition#
+
+§vem_vill_ha
+orka
+palla
+vem vill ha
+varför välja
+
+§äckligt
+#klibb#
+#värderat-material#
+
+§åtråvärd
+#drog#
+#mat-en#
+#mat-ett#
+#naturföremål-plural#
+#vätska-den#
+
+§dålig
+#vidrigt_syn#
+#sämst_syn#
+#kasst_syn#
+
+§antipalt
+kroppkaka
+kroppkaka
+kryddpeppar
+
+§palt_syn
+palt
+palt
+palt
+palt
+palt
+palt
+palt
+Palt
+pitepalt
+#paaalt#
+blodpalt
+stekpalt
+gråpalt
+paltkoma
+p a l t
+P A L T
+\\#palt
+
+§paaalt
+#_P##_A##_L##_T#
+
+§_P
+P
+PP
+p
+§_A
+A
+A
+AA
+#_A##_A#
+a
+aa
+§_L
+L
+l
+LL
+#_L##_L#
+§_T
+T
+t
+#_T##_T#
+
+
+
+§många_palt
+#p# #palt_syn#
+#många_palt# #p#
+#många_palt# #p#
+
+§sugen_syn
+sugen på
+längtar efter
+vill ha
+#mmmmm#
+nothin like
+inget slår
+#funderar_på_syn#
+#minns_syn#
+#pratar_syn# om
+inne:
+#vill_ska_syn# #berätta_syn# om
+
+§mmmmm
+mm
+m
+#mmmmm#m
+#mmmmm#mm
+#mmmmm#mmm

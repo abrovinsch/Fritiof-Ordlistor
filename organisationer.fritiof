@@ -12,6 +12,13 @@
 #internationella_företag#
 #svenska_företag#
 
+§föreningsposition
+kassör
+ordförande
+vice ordförande
+medlem
+engagerad
+
 §myndigheter
 Skatteverket
 Systembolaget
@@ -67,6 +74,7 @@ SEB
 Swedbank
 Nordea
 Investor
+Avanza
 
 // Industri
 Sandviken
@@ -82,6 +90,7 @@ SCA
 // Bygg
 Skanska
 NCC
+PEAB
 
 // Affärer
 Clas Ohlsson
@@ -100,6 +109,8 @@ Telia
 Tele2
 Telenor
 3
+Bredbandsbolaget
+Comhem
 
 §internationella_företag
 // Tech
@@ -117,6 +128,9 @@ Disney
 Dreamworks
 Warner Bros
 CNN
+HBO
+EA Games
+Ubisoft
 // Mat
 Coca-Cola
 McDonalds
@@ -130,6 +144,12 @@ Adidas
 #bilmärke#
 #bilmärke#
 #bilmärke#
+//
+Mastercard
+Visa
+eBay
+Cisco
+
 
 §föreningar
 // Partier
@@ -158,7 +178,7 @@ Svenska kyrkan
 pingstkyrkan
 iogt-nto
 LO
-Timbro1
+Timbro
 Svenskt Näringsliv
 SAC
 RFSL
@@ -177,6 +197,13 @@ Naturskyddsföreningen
 Röda Korset
 SPF
 PRO
+Svenska FN-Förbundet
+Röda Korset
+UNICEF
+IOGT-NTO
+SACO
+IF-Metall
+Kommunal
 
 §idrottsföreningar
 // Hockey
@@ -209,3 +236,30 @@ IFK
 Kalmar FF
 GIF
 Hammarby
+
+// Internationella fotbollslag
+Barcelona
+PSG
+Real Madrid
+Bayern Munich
+Man. City
+Juventus
+Liverpool
+Tottenham
+Napoli
+Atlético Madrid
+Dortmund
+Arsenal
+Chelsea
+Porto
+Man. United
+Leverkusen
+Roma
+Monaco
+Real Sociedad
+Valencia
+Eibar
+Marseille
+Lazio
+Benfica
+Inter Milan

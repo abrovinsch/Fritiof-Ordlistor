@@ -1,13 +1,20 @@
 §stofilt-namn
-#manligt-förnamn.capitalize# #efternamn.capitalize#
-#manligt-förnamn.capitalize# #efternamn.capitalize#
-#manligt-förnamn.capitalize# #efternamn.capitalize#
-#manligt-förnamn.capitalize#-#manligt-förnamn.capitalize# #efternamn.capitalize#
+#stofilt-kvinnonamn#
+#stofilt-mansnamn#
+
+
+§stofilt-kvinnonamn
 #kvinnligt-förnamn.capitalize# #efternamn.capitalize#
 #kvinnligt-förnamn.capitalize# #efternamn.capitalize#
 #kvinnligt-förnamn.capitalize# #efternamn.capitalize#
 #kvinnligt-förnamn.capitalize# #efternamn.capitalize#
 #kvinnligt-förnamn.capitalize#-#kvinnligt-förnamn.capitalize# #efternamn.capitalize#
+
+§stofilt-mansnamn
+#manligt-förnamn.capitalize# #efternamn.capitalize#
+#manligt-förnamn.capitalize# #efternamn.capitalize#
+#manligt-förnamn.capitalize# #efternamn.capitalize#
+#manligt-förnamn.capitalize#-#manligt-förnamn.capitalize# #efternamn.capitalize#
 
 §manligt-förnamn
 Sten

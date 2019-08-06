@@ -1,3 +1,56 @@
+§en_syn
+en
+EN
+1
+
+§fräscht_syn
+fräscht
+FRÄSCHT
+fresh
+sweet
+nice
+modernt
+
+§värderande_adjektiv
+tufft
+coolt
+fräckt
+vulgärt
+nice
+häftigt
+modernt
+fräscht
+trendigt
+spännande
+fascinerande
+
+§fråga_syn
+fråga
+fråga
+fråga
+liten fråga
+QUESTION
+spörsmål
+
+§arg_trött_sur_syn
+arg
+trött
+sur
+irriterad
+störd
+ilsken
+provocerad
+
+§få_syn
+få
+inte många
+
+§saker_syn
+saker
+grejer
+prylar
+ting
+
 §det_är_syn
 #det_syn# #är_syn#
 #det_syn# #är_syn#
@@ -20,6 +73,33 @@ någon
 ihop
 tsm
 
+§ni_alla_syn
+alla
+alla
+ni
+ni
+de
+
+§knäppa_syn
+1/3{#förstärkningsord# }knäppa
+knäppa
+konstiga
+dumma
+löjliga
+inte kloka
+...
+#gnäll_grupp#
+förtappade
+inte riktigt kloka
+lite eljest
+störda
+koko
+
+§min_dröm_syn
+1/10{#inte_syn# }min dröm#kolon_syn#
+1/10{#inte_syn# }goals#kolon_syn#
+tänk att
+
 §legat_med_syn
 legat #med_syn#
 dansat #med_syn#
@@ -36,6 +116,15 @@ lyssnar[preposition:på]
 bryr mig[preposition:om]
 har[preposition:tilltro till]
 tänker[preposition:på]
+
+§kär_i
+kär i
+nyfiken på
+avundsjuk på
+förebild#kolon_syn#
+#funderar_på_syn#
+minns
+vad gör
 
 §lyssna_på_syn
 höra #dig_er# #berätta_syn# om
@@ -70,6 +159,7 @@ nt
 något
 något
 ngt
+nåt
 
 §jaha_syn
 jaha
@@ -174,7 +264,10 @@ skrattar
 
 §sök_hjälp_syn
 sök hjälp
+sök hjälp
 bara dö
+sök
+sök
 e d ok?
 hur mår ni?
 gå o dö
@@ -210,6 +303,7 @@ fortsätt med det
 jag vill också
 gå vidare
 skärp er
+vad sysslar ni med#många_frågetecken#
 
 §kolon_syn
  -
@@ -265,7 +359,7 @@ hemskt
 stört
 jävulskt
 gulligt
-[v:så ^]#50%##vidrigt_syn#
+1/2{så }#vidrigt_syn#
 
 §trött_syn
 trött
@@ -376,3 +470,226 @@ samtiden
 har jobbat för
 blivit köpt av
 börjat jobba för
+
+§värderande_adjektiv_plural
+störiga
+irriterande
+jobbiga
+olidliga
+töntiga
+sjuka
+otroliga
+grymma
+fantastiska
+
+§inser_syn
+inser
+tror
+börjar inse
+
+§alla_de_folk
+alla
+folk
+de
+dom
+
+§hur_vrf
+HUUR
+hur
+#varför_syn#
+
+§meme_cool_syn
+cool
+intellktuell
+smart
+tuff
+
+§meme_tönt_syn
+tönt
+oklar
+ideot
+obildad
+idiot
+
+§usch_syn
+usch
+fy
+blä
+
+§shit_syn
+shit
+gud
+#usch_syn#
+
+§jag_stör_mig_på
+#jag_syn# stör mig på
+svårt #jag_syn# har för
+#orimligt_syn# #arg_trött_sur_syn# #jag_syn# blir av
+
+§i_denna_omständighet
+i denna hetta
+i denna kyla
+i #plats#
+in this economy
+år 2018
+när #jag_syn# är #person_adjektiv#
+
+§so_sue_me_syn
+so sue me
+döm mig då
+hata mig
+avfölj då
+deal with it
+säger inte förlåt
+
+§förlåt_syn
+förlåt
+ursäkta
+sorry
+
+§ok_syn
+ok
+OK
+okej
+okay
+
+§dagens_stil_typ
+pojke
+hobo
+hipster
+dam
+pimp
+flicka
+nörd
+rockstjärna
+seglare
+skogshuggare
+trubadur
+arbetare
+kämpe
+biblotikarie
+emo
+snobb
+mormor
+lolita
+rappare
+hippie
+kommunist
+skinhead
+lärare
+pirat
+feminist
+machoman
+vegan
+lillasyster
+pappa
+mamma
+redneck
+tönt
+goth
+pundare
+musiker
+snubbe
+bohem
+konstnär
+minimalist
+tatuerare
+gubbe
+gangster
+fjortis
+präst
+prinsessa
+byggare
+snickare
+stylist
+byråkrat
+pensionär
+biker
+skater
+raggare
+scout
+tjej
+tant
+dandy
+playboy
+pojkvän
+författare
+hipster
+göteborgare
+sjöman
+pilot
+sektledare
+surfare
+fransyska
+frisör
+tjuv
+loser
+popstjärna
+poet
+synthare
+modebloggare
+pappa
+huligan
+gitarrist
+kulturtant
+sosse
+hemmafru
+hemmaman
+backpacker
+bonde
+chef
+kuf
+kulturman
+rockstjärna
+aktivist
+spion
+mufare
+grabb
+kvinna
+man
+psykolog
+bartender
+älskare
+älskarinna
+dansare
+DJ
+diva
+modell
+modeskapare
+designer
+brud
+flickvän
+fru
+madame
+milf
+dilf
+tränare
+fotbollsspelare
+unge
+sekreterare
+flanör
+posör
+pamp
+extremist
+expert
+jävel
+gosse
+barista
+arkitekt
+cowboy
+narkoman
+fiskare
+besserwisser
+professor
+indian
+gymnasist
+lajvare
+p12a
+crazy cat lady
+tumblr-prinsessa
+gamer
+psykopat
+viking
+premiärdrottning
+gigolo
+cool katt

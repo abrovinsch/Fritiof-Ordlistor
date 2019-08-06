@@ -1,0 +1,57 @@
+-dictionary ~/Egna Dokument/Programmering/Fritiof-Ordlistor
+-insert oskars_botar/gnellbot5000/gnäll-synonymer
+-insert oskars_botar/krönika/krönika-extra
+-insert historia
+-insert saker
+-insert stofila-namn
+-insert orter
+-insert datum
+-insert teknik
+-insert stofil-mat
+-insert kultur
+-insert nauticalia
+-insert kändisar
+-insert sjukdomar
+-insert organisationer
+-insert djur
+-insert kläder
+
+§origin
+#historiskt-datum#: #krönika.capitalize#
+#historiskt-datum#: #krönika.capitalize#
+#historiskt-datum#: #krönika.capitalize#
+//#1900-tals-datum#: #1900-krönika.capitalize#
+
+§historisk_figur
+#stofilt-namn.capitalize# i #svenska-orter-i#
+#kunglighet#
+#mat-yrke# #stofilt-förnamn.capitalize#
+
+§krönika
+#historisk_figur# #gör_sak_med# #historisk_figur#
+#historisk_figur# introducerar #ismer# till #historisk_ort#
+1/2{#nationalitet# }#skeppstypen# #skeppsnamn.capitalize# #skepp-händelse# utanför #internationell_stad#
+#internationell_stad# #stad_handling#
+#kunglighet# #kunglig_handling#
+#regering# #gör_land_grej_med# #historiskt_land#
+#historisk_figur# #gör_sak_med_organisation# #organisation#
+#historisk_figur# #handling#1/3{ i #historisk_ort#}
+#regering# #gör_regeringsgrej#
+#historisk_figur# uppfiner världens första #uppfinning#
+#organisation_gör_grej#
+#revolution#
+#revolution#
+#nationell_kris# i #historisk_ort#
+#nationalitet# #samhällsgrupp-plural# startar #uppfinning#-trenden
+#handelsmän# börjar #handla_med_syn# #handelsvara# 1/3{#handels_preposition# #handelsmän#}
+
+§1900-krönika
+#1900-historisk_figur# #gör_sak_med# #1900-historisk_figur#
+#organisation_gör_grej#
+#krönika#
+#krönika#
+#krönika#
+
+§1900-historisk_figur
+#stofilt-namn.capitalize#
+#artist#
