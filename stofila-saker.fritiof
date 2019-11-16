@@ -1,14 +1,14 @@
 -insert språk
 -insert stofil-mat
 -insert teknik
--insert kändisar
+-insert stofilstjärnor
 -insert verb
 
 §stofil_person
-#stofil-kändis#
+#gammal_stofil#
 
 §stofilt_sällskap
-#stofil-kändis#-sällskapet
+#gammal_stofil#-sällskapet
 #sällskapet_syn# för #stofilt_akademiskt_ämne#
 
 §sällskapet_syn

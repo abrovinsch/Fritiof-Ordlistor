@@ -3,6 +3,9 @@
 #sjukdom-prefix##slumpad-sjukdom.capitalize#
 #sjukdom#
 
+§fiktiv_sjuka
+#sjukdom-prefix##sjukdom-påhittad#
+#sjukdom-prefix##slumpad-sjukdom.capitalize#
 
 §sjukdom-påhittad
 nervbrock

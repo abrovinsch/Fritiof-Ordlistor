@@ -4,16 +4,22 @@
 -insert stofila-saker
 -insert orter
 -insert organisationer
+-insert ordklasser
 -insert föremål
 -insert oskars_botar/stofilfakta/historiskafakta
 -insert oskars_botar/stofilfakta/landfakta
+-insert oskars_botar/stofilfakta/fakta_om_kultur
+-insert oskars_botar/stofilfakta/riktigafakta
 
 §origin
 Visste du att #stofilfakta#?
+Visste du att #riktigfakta#?
+Visste du att #riktigfakta#?
 
 §stofilfakta
 #fakta_om_figur#
 #fakta_om_land#
+#fakta_om_kultur#
 #fakta_om_historia#
 
 §fakta_om_figur
@@ -21,13 +27,56 @@ Visste du att #stofilfakta#?
 #stofil_profil# var #stofil_position#
 #stofil_profil#s #intresse# var #stofilt_område#
 #stofil_figur# var #stofil_profil#s #könsneutralförbindelse#
-#stofil_profil# #uträttade_livsprojekt# #i-ort#
+#stofil_profil# #uträttade_livsprojekt# #livsprojektplats#
+#stofil_profil# #kunde_göra_sak#
+
+§kunde_göra_sak
+#verb_substantiv_par_en#kunde #pair1# en #pair2# #på_tid#
+kunde #göra_sak# #på_tid#
+#intekunde# #göra_sak#
+
+§på_tid
+på #siffra# minuter
+på #siffra# timmar
+på en dag
+om dagen
+i veckaen
+
+§göra_sak
+#verb_substantiv_par_ett##pair1# #pair2#
+#person_verb_infinitiv#
+#verb_substantiv_par_ett##pair1# #siffra# #pair2#
+#berätta_om_sak#
+
+§intekunde
+inte kunde
+inte vågade
+vägrade att
+inte fick
+aldrig fick
+
+§berätta_om_sak
+säga sitt namn
+berätta om sin barndom
+spela #musikinstrument_en#
+läsa #klassisk_roman#
 
 §uträttade_livsprojekt
 gifte sig
 föddes
+förlovades
+försvannn
+fick barn
 gjorde militärtjänst
 läste #stofilt_akademiskt_ämne#
+
+
+§livsprojektplats
+#vid_ålder#
+#i-ort#
+
+§vid_ålder
+vid #num##num# års ålder
 
 §stofil_profil
 #stofil_person#

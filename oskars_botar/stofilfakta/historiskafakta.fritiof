@@ -4,9 +4,6 @@
 -insert geografi
 -insert stofila-saker
 
-§t
-#historisk-person# #var_med_om_otrolig_sak#
-
 §fakta_om_historia
 #fakta_om_historia_prefix# #historisk_fakta#
 #historisk_fakta#
@@ -192,9 +189,9 @@ de bibliska hebreerna
 förlorade ett #kroppsdel-ett# i #sak_attförlora_kroppsdel_av#
 var #pinsam_sak_att_vara# #hela_livet#
 var hemsökt av #onda_andar#
-inte kunde #person_verb_infinitiv#
 #nämns# i #filmer-spel-serier#
 #gjorde_grej# #merän##siffra# gånger
+försvann spårlöst i #plats#
 
 §nämns
 nämns

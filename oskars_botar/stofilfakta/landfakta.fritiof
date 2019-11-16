@@ -3,6 +3,7 @@
 -insert kultur
 -insert stofil-mat
 -insert saker
+-insert sjukdomar
 
 §fakta_om_land
 #fakta_om_historia_prefix# #landfakta#
@@ -15,13 +16,38 @@
 #stofil_land# #är_var# #världens# #största_främsta# #land_sett_till_metric#
 #stofil_land# #förr_hade# #antal_farligheter# #farligheter_beskrivning# #farligheter_i_landet#
 
+§sjukdom_beskr
+farligaste
+dödligaste
+vanligaste
+mest fruktade
+
 §ort_har_kallats_nåt_annat
-#stofil_land# #har_kallats# '#land# för #människo_kategori#'
-#ort_har_kallats# '#nordens# #internationell_stad#'?
+#stofil_land# #har_kallats# '#land_smeknamn.capitalize#'
+#ort_har_kallats# '#ort_smeknamn#'
 
 §ort_har_kallats
 #ort-i-legacy# #har_kallats#
 #stofil_profil# kallade #ort-i-legacy#
+
+§ort_smeknamn
+#nordens# #fabrik_åker#
+#norra# #internationell_stad#
+#sakernas#s 1/3{#förlovade_syn# }#hem_syn#
+
+§land_smeknamn
+#stofil_land# #för_utan_med# #människo_kategori#
+#sakernas#s 1/2{#förlovade_syn# }#land_syn#
+#världens# #fabrik_åker#
+
+§sakernas
+#människor-plural-bestämd-form#
+#vardagsföremål-plural-bestämd-form#
+#konceptbestämdformplural#
+#ismer#en
+
+§hem_syn
+hem
 
 §har_kallats
 brukar kallas
@@ -30,12 +56,43 @@ ofta benämns som
 har tillnamnet
 har kallats
 
+§för_utan_med
+för
+utan
+med
+
+§norra
+Lilla
+Norra
+#nordens#
+#nordens#
+#nordens#
+
 §nordens
 Skandinvaiens
 Sveriges
-Lilla
-Norra
 Nordens
+
+§fabrik_åker
+fabrik
+åker
+glashytta
+vingård
+verkstad
+skola
+trädgård
+dagis
+bakgård
+soptipp
+kontor
+sjukhus
+#kalas##land_syn#
+
+§förlovade_syn
+förlovade
+förbannade
+heliga
+eviga
 
 §förr_hade
 #länge_syn# hade
@@ -148,7 +205,6 @@ pensionärer
 gamlingar
 borgare
 arbetare
-sossar
 nördar
 töntar
 småbarn

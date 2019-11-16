@@ -1,0 +1,239 @@
+-insert kultur
+-insert stofilstjärnor
+
+§välj_verk
+[verk:#klassisk_roman#][skapdes_verb:skrevs]
+
+§skrev_syn
+gav ut
+skrev
+
+§gjorde_film_syn
+gjorde
+regiserrade
+producerade
+#skrev_syn#
+
+§verktyper
+[verktypen:romanen][skapade_verb:#skrev_syn#]
+[verktypen:diktsamlingen][skapade_verb:#skrev_syn#]
+[verktypen:boken][skapade_verb:#skrev_syn#]
+[verktypen:barnboken][skapade_verb:#skrev_syn#]
+[verktypen:filmen][skapade_verb:#gjorde_film_syn#]
+[verktypen:pjäsen][skapade_verb:#gjorde_film_syn#]
+[verktypen:skivan][skapade_verb:spelade in]
+
+§fakta_om_kultur
+#välj_verk#'#verk#' #egentligen_syn##skapdes_verb# av #stofil_profil#
+#verktyper##stofil_profil# #skapade_verb# #den_bisarra##verktypen# '#verkstitel.capitalize#'
+'#verkstitel.capitalize#' är den #stofilt_utrikisk#a nationalsången?
+
+§den_bisarra
+^
+den #bisarra_syn# ^
+
+§bisarra_syn
+#bisarra_syn#, #bisarra_syn#
+religiösa
+politiska
+bisarra
+misslyckade
+hyllade
+utskällda
+historiska
+sågade
+fartfyllda
+komiska
+filosofiska
+
+§t
+
+§verkstitel
+#bisarr_titel#
+#pilsnerfilmstitel#
+
+§egentligen_syn
+faktiskt ^
+egentligen ^
+^
+^
+
+§bisarr_titel
+#bisarrsak# från #bisarr_plats#
+#resa_i# #bisarr_plats#
+#plats# - #bisarr_plats#
+#bisarrt_namn# och #bisarrt_namn#
+#naturföremål-plural# från #bisarr_plats#
+#man-kvinna# i #bisarr_plats#
+#poetisk_sak_beskriven#
+#resa_syn# från #poetisk_sak# till #poetisk_sak#
+#stofilt_utrikisk# #tidpunkt#
+I #historisk-person#s #land_syn#
+#tidpunkt##land_syn#
+
+§bisarrsak
+#mumbojumbo#-#trollet#
+#sak-en#en #bisarrt_namn#
+Den #magiska_syn# #sak-en#en
+
+§mumbojumbodel
+#mumbojumbokombo#
+
+§mumbojumbo
+[a:#mum#][b:#bopp#][c:#vokal#][d:#konsonant#]#mumbojumbodel#
+
+§mumbojumbokombo
+#konsonant##a##c#-#d##a##c#-#d##c#
+#d##c#-#d##c#
+#konsonant##a##c#-#d##a##c#
+#d##a##c##mum#
+
+§mum
+um
+um
+um
+opp
+opp
+opp
+itt
+
+§bopp
+tu
+po
+tos
+fi
+
+§vokal
+a
+u
+e
+o
+
+§konsonant
+t
+m
+h
+
+§mumbo_plats
+#mumbojumbo#-#platsen#
+#sak##platsen#
+
+
+§platsen
+skogen
+dalen
+landet
+världen
+havet
+
+§trollet
+trollet
+pojken
+flickan
+flöjten
+trädet
+
+§bisarrt_namn
+#stofilt-förnamn.capitalize#
+#mumbojumbo#
+#person-typ#
+
+§magiska_syn
+magiska
+förtrollade
+oändliga
+förgylda
+hemliga
+försvunna
+
+§resa_i
+#resa_syn# i
+Rapport från
+In i
+
+§bisarr_plats
+#mumbo_plats#
+#plats#
+#poetisk_plats#
+#ett-koncept#
+#naturhinder-bestämd-form#
+
+§poetisk_plats
+ett #plats_adj# #plats_ett_syn#
+
+§plats_ett_syn
+hav
+land
+mörker
+berg
+landskap
+
+§plats_adj
+öde
+evigt
+ständigt
+upphöjt
+dunkelt
+svunnet
+framtida
+brunnet
+
+§resa_syn
+Resa
+Färd
+Vandring
+
+§poetisk_sak_beskriven
+#poetisk_sak# av #material#
+#släkting# till #koncept#
+
+
+§poetisk_sak
+Hjärta
+Vilja
+Fartyg
+#gud-synonym#
+#sak#
+#släkting#
+#vardagsföremål-plural#
+
+§pilsnerfilmstitel
+#pilsner_nu_syn# #snyter_syn# vi #pilsner_figur#
+#pilsnersak# i #svenska-orter-i#
+#jag_du_vem# #äger-gör-har# #pilsner_figur#
+#person-typ# utan #pilsnersak#
+
+§pilsnersak
+#mat-sak#
+Hembränt
+Pilsner
+Livat
+Krig
+mat
+#pilsner_figur#
+#koncept-en#
+
+§pilsner_figur
+#mat-yrke#
+#mat-yrke#
+#mat-yrke#
+Jungfrun
+
+
+§snyter_syn
+Tjackar
+Klaffar
+Snyter
+Tjoffar
+skrämmer
+
+§pilsner_nu_syn
+Nu
+Kom så
+Alla
+
+§jag_du_vem
+Jag
+Du
+Vem
+#pilsner_figur#
