@@ -6,6 +6,7 @@
 -insert saker
 -insert ordklasser
 -insert kultur
+-insert musik
 -insert orter
 -insert stofila-namn
 -insert organisationer
@@ -76,13 +77,13 @@ tkr #sak_att_va_trött_på# e #sämst_syn#
 1/2{så }#vidrigt_syn# #med_syn# #sak_att_va_trött_på#
 1/2{så }#varför_syn# #gör_folk_sak#1/2{ #tidsangivelse#}#många_frågetecken#
 1/2{så }#varför_syn# #är_syn# #sak-plural# så #adjektiv-plural##många_frågetecken#
-1/2{#nej_syn# }#följer_soc_med# #aldrig_inte# #nån_att_följa#
+//1/2{#nej_syn# }#följer_soc_med# #aldrig_inte# #nån_att_följa#
 #när_jag_tar_över# #så_händer_sak#
 #nej_syn# jag #vill_ska_syn# #inte_syn# #lyssna_på_syn# #sak_att_berätta_om#
 #klaga_på_mat#
 #orkar_inte_skrik.capitalize#
 #folk_syn# som #gjort_sak# kan 1/4{ni snälla }#lägga_ner_syn#
-#jaha_syn# #varför_syn# #vill_ska_syn# #jag_syn# #göra_sak#
+// #jaha_syn# #varför_syn# #vill_ska_syn# #jag_syn# #göra_sak#
 #begriper_syn# #inte_syn# #varför_syn# #folk_syn# #är_syn# #person_adjektiv_plural#
 #det_är_syn# #något_syn# 1/2{så }#vidrigt_syn# #med_syn# #sak_att_va_trött_på#
 1/3{ #haha_syn# }#sak_att_va_trött_på#1/3{ #haha_syn# }1/3{ #haha_syn# }1/2{#många_frågetecken#}
@@ -95,7 +96,7 @@ tkr #sak_att_va_trött_på# e #sämst_syn#
 1/5{#tycker_syn# }#det_är_syn# #vidrigt_syn# #med_syn# #sak_att_va_trött_på#
 #nej_syn# om #jag_syn# skulle 1/4{ta och }#göra_dålig_sak# 1/3{lite }
 #min_dröm_syn# #dröm_sak#
-#ni_alla_syn# som 1/2{#inte_syn# }#gjort_sak# #är_syn# 1/2{ju }1/4{bara }#knäppa_syn#
+//#ni_alla_syn# som 1/2{#inte_syn# }#gjort_sak# #är_syn# 1/2{ju }1/4{bara }#knäppa_syn#
 #få_syn# #saker_syn# #gör_mig_så# #arg_trött_sur_syn# som #sak_att_va_trött_på#
 #gillar_syn# 1/2{ändå }#sak_att_va_trött_på#1/3{ lite}
 #sak_att_va_trött_på# #är_syn# 1/3{ändå }min grej
@@ -122,10 +123,103 @@ om du #gör_sak# #sök_hjälp_syn#
 1/4{#förlåt_syn# men }1/3{#någon_som_inte_ska_göra_grej# }vill #göra_sak#1/3{, #so_sue_me_syn# }
 1/4{#ok_syn# }#någon_som_inte_ska_göra_grej# ÄR #sak_att_vara#
 1/2{#jag_syn# }#är_syn# hellre #dagens_stil_typ# än #sak_att_vara#
+#borde_göra# #sak_borde#
+#borde_göra# #sak_borde#
+1/2{#när_man_är_sak_och# }#inser_syn# att #jag_syn# #är_syn# #udda_saker_att_va#1/4{ och #udda_saker_att_va#}
+#skyldig_till_att_påverka_mig# gör mig #saker_jag_blir#
+#x_ser_ut_som_y#1/2{?}1/4{?}1/8{ hjälp}
+vem #bryr_sig_om_x#1/4{ dock}
 
 §nya
 
+
 §p
+1/4{#rätt_säker_på# }#historisk-person# hade #älskat_hatat# #modern_sak#
+
+§rätt_säker_på
+1/2{#är_syn# }1/2{#ganska_syn# }säker på att
+
+§älskat_hatat
+älskat
+hatat
+varit tokig i
+
+§modern_sak
+#internet_sak#
+#filmer-spel-serier#
+#min_egenskap#
+
+§x_ser_ut_som_y
+#någon_som_inte_ska_göra_grej# #ser_ut_att# #göra_sak#
+#någon_som_inte_ska_göra_grej# #ser_ut_att# #komma_från#
+#någon_som_inte_ska_göra_grej# #ser_ut_som_syn# #nån_syn# som #nån_att_se_ut_som#
+ser #jag_syn# ut som #nån_syn# som #nån_att_se_ut_som#
+
+§ser_ut_att
+ser 1/3{verkligen }ut att
+
+§ser_ut_som_syn
+liknar
+ser ut som
+
+§komma_från
+komma från #ort#
+vara från #ort#
+
+§nån_att_se_ut_som
+#är_syn# #udda_saker_att_va#
+#jobbar_syn# på #organisation#
+#bryr_sig_om_x#
+är med i #band#
+
+
+§när_man_är_sak_och
+när #jag_syn# #är_syn# #sak_att_va_på_main# och
+
+§skyldig_till_att_påverka_mig
+#nån_borde#
+#ismer#
+
+§saker_jag_blir
+#adjektiv-en#
+#udda_saker_att_va#
+
+§udda_saker_att_va
+#sak_att_va_på_main#1/3{ på main}
+trött på #sak_att_va_trött_på#
+sugen på #mat-sak#1/2{ och #mat-sak#}
+sugen på att #göra_sak# 1/2{och #göra_sak#}
+
+§bryr_sig_om_x
+bryr sig om #sak_att_va_trött_på#
+
+§sak_att_va_på_main
+kåt
+kränkt
+provocerad
+deprimerad
+inspirerad
+full
+hög
+packad
+bäng
+trött
+
+§sak_borde
+#sluta_syn# med att #göra_sak#
+#göra_sak#
+#sluta_syn#
+
+§borde_göra
+#nån_borde# #borde_syn#
+
+§nån_borde
+#gnäll_grupp#
+#nån_syn#
+#regeringen_syn#
+#kändis#
+#jag_syn#
+#organisation#
 
 §sak_att_vara
 #person_adjektiv#
@@ -133,6 +227,8 @@ om du #gör_sak# #sök_hjälp_syn#
 
 §någon_som_inte_ska_göra_grej
 #jag_syn#
+#jag_syn#
+#kändis#
 #kändis#
 min #man-kvinna#
 
@@ -177,6 +273,7 @@ tycka att #åsikt#
 försöka #person_verb_infinitiv#
 resa till #plats#
 bli #person_adjektiv#
+#börja_med_syn# #konstformer#
 #verb_substantiv_par_en##pair1# en 1/2{#adjektiv-en# }#pair2#
 
 §gjort_sak
@@ -567,22 +664,20 @@ vill tbx till
 §sak_att_va_trött_på
 #folk_syn#
 #overklig_död_kändis#
-#overklig_död_kändis#
 #sak-plural#
 #internet_sak#
 #filmer-spel-serier#
 '#koncept-en#'
 #ort#
 #overklig_död_kändis#
-#gnäll_grupp_# som #är_syn# #person_adjektiv_plural#
 #organisation#
 #plats#
-#person_adjektiv_plural# #grupp#
 #min_egenskap#
 #historisk_sak#
 #tekniksak#
 att #person_verb_infinitiv#
 #ismer#
+#konstformer#
 
 §min_egenskap
 mitt humör
@@ -709,7 +804,7 @@ idag
 nån gång
 snart
 igår
-2018
+2020
 
 §när_nåt_händer
 jag #jag_gör_sak_syn#
